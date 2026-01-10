@@ -1,0 +1,472 @@
+{
+  "summary": {
+    "total_papers": 7,
+    "successful": 7,
+    "failed": 0,
+    "total_keywords_generated": 70
+  },
+  "results_by_paper": {
+    "P001": {
+      "paper_id": "P001",
+      "file": "mathematical-fossils-ancient-trade-geometry_v02_DRAFTED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "Languages are time machines. Every word you speak carries echoes of decisions made thousands of years ago — not just _which_ sounds to use, but _why_ those s...",
+        "keywords": [
+          "morphographs",
+          "mathematical etymology",
+          "ancient geometry",
+          "linguistic convergence",
+          "null controls",
+          "convergence analysis",
+          "historical linguistics",
+          "comparative linguistics",
+          "etymology",
+          "semantic evolution"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p001"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "Languages are time machines. Every word you speak carries echoes of decisions made thousands of years ago — not just _which_ sounds to use, but _why_ those s...",
+        "og:url": "https://morphographs.com/papers/p001",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p001_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "Languages are time machines. Every word you speak carries echoes of decisions made thousands of years ago — not just _which_ sounds to use, but _why_ those s...",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "Languages are time machines. Every word you speak carries echoes of decisions made thousands of years ago — not just _which_ sounds to use, but _why_ those s...",
+        "keywords": "morphographs, mathematical etymology, ancient geometry, linguistic convergence, null controls, convergence analysis, historical linguistics, comparative linguistics, etymology, semantic evolution",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p001",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "P003": {
+      "paper_id": "P003",
+      "file": "seif-lie-detector-ancient-words_v02_DRAFTED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "Traditional etymology makes these bets using intuition, phonological rules, and historical context. But intuition is subjective. Rules have exceptions. Conte...",
+        "keywords": [
+          "SEIF",
+          "phonological methods",
+          "linguistic truth detection",
+          "semantic verification",
+          "false cognates",
+          "convergence analysis",
+          "historical linguistics",
+          "comparative linguistics",
+          "etymology",
+          "semantic evolution"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p003"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "Traditional etymology makes these bets using intuition, phonological rules, and historical context. But intuition is subjective. Rules have exceptions. Conte...",
+        "og:url": "https://morphographs.com/papers/p003",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p003_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "Traditional etymology makes these bets using intuition, phonological rules, and historical context. But intuition is subjective. Rules have exceptions. Conte...",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "Traditional etymology makes these bets using intuition, phonological rules, and historical context. But intuition is subjective. Rules have exceptions. Conte...",
+        "keywords": "SEIF, phonological methods, linguistic truth detection, semantic verification, false cognates, convergence analysis, historical linguistics, comparative linguistics, etymology, semantic evolution",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p003",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "P004": {
+      "paper_id": "P004",
+      "file": "temporal-depth-linguistic-signal_v03_EXPANDED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "This isn't folklore. It's quantifiable linguistic archaeology with a correlation coefficient of r=0.68 (p<0.001). Explore linguistic convergence across ancie...",
+        "keywords": [
+          "temporal depth",
+          "linguistic stratification",
+          "word age",
+          "convergence scores",
+          "diachronic linguistics",
+          "convergence analysis",
+          "statistical significance",
+          "effect size",
+          "historical linguistics",
+          "comparative linguistics"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p004"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "This isn't folklore. It's quantifiable linguistic archaeology with a correlation coefficient of r=0.68 (p<0.001). Explore linguistic convergence across ancie...",
+        "og:url": "https://morphographs.com/papers/p004",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p004_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "This isn't folklore. It's quantifiable linguistic archaeology with a correlation coefficient of r=0.68 (p<0.001). Explore linguistic convergence across ancie...",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "This isn't folklore. It's quantifiable linguistic archaeology with a correlation coefficient of r=0.68 (p<0.001). Explore linguistic convergence across ancie...",
+        "keywords": "temporal depth, linguistic stratification, word age, convergence scores, diachronic linguistics, convergence analysis, statistical significance, effect size, historical linguistics, comparative linguistics",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p004",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "P005": {
+      "paper_id": "P005",
+      "file": "ancient-blood-words-medical-etymology_v02_DRAFTED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "When you compare ancient vocabularies across unrelated language families, certain words feel _inevitable_:. Explore linguistic convergence across ancient cul...",
+        "keywords": [
+          "medical etymology",
+          "clinical terminology",
+          "ancient medicine",
+          "semantic convergence",
+          "healthcare linguistics",
+          "convergence analysis",
+          "historical linguistics",
+          "comparative linguistics",
+          "etymology",
+          "semantic evolution"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p005"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "When you compare ancient vocabularies across unrelated language families, certain words feel _inevitable_:. Explore linguistic convergence across ancient cul...",
+        "og:url": "https://morphographs.com/papers/p005",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p005_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "When you compare ancient vocabularies across unrelated language families, certain words feel _inevitable_:. Explore linguistic convergence across ancient cul...",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "When you compare ancient vocabularies across unrelated language families, certain words feel _inevitable_:. Explore linguistic convergence across ancient cul...",
+        "keywords": "medical etymology, clinical terminology, ancient medicine, semantic convergence, healthcare linguistics, convergence analysis, historical linguistics, comparative linguistics, etymology, semantic evolution",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p005",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "P007": {
+      "paper_id": "P007",
+      "file": "bronze-age-commodity-encoding_v03_EXPANDED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "This is embodied phonology — the shape of your mouth mirrors the shape of meaning. Explore linguistic convergence across ancient cultures.",
+        "keywords": [
+          "Bronze Age trade",
+          "commodity encoding",
+          "economic linguistics",
+          "ancient commerce",
+          "material culture",
+          "convergence analysis",
+          "statistical significance",
+          "effect size",
+          "historical linguistics",
+          "comparative linguistics"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p007"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "This is embodied phonology — the shape of your mouth mirrors the shape of meaning. Explore linguistic convergence across ancient cultures.",
+        "og:url": "https://morphographs.com/papers/p007",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p007_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "This is embodied phonology — the shape of your mouth mirrors the shape of meaning. Explore linguistic convergence across ancient cultures.",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "This is embodied phonology — the shape of your mouth mirrors the shape of meaning. Explore linguistic convergence across ancient cultures.",
+        "keywords": "Bronze Age trade, commodity encoding, economic linguistics, ancient commerce, material culture, convergence analysis, statistical significance, effect size, historical linguistics, comparative linguistics",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p007",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "P009": {
+      "paper_id": "P009",
+      "file": "multi-domain-integration-aei_v03_EXPANDED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "When we synthesized the findings, a unified theory emerged:. Explore linguistic convergence across ancient cultures.",
+        "keywords": [
+          "multi-domain integration",
+          "cross-domain convergence",
+          "ancient embodied intelligence",
+          "semantic stability",
+          "conceptual universals",
+          "convergence analysis",
+          "statistical significance",
+          "historical linguistics",
+          "comparative linguistics",
+          "etymology"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p009"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "When we synthesized the findings, a unified theory emerged:. Explore linguistic convergence across ancient cultures.",
+        "og:url": "https://morphographs.com/papers/p009",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p009_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "When we synthesized the findings, a unified theory emerged:. Explore linguistic convergence across ancient cultures.",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "When we synthesized the findings, a unified theory emerged:. Explore linguistic convergence across ancient cultures.",
+        "keywords": "multi-domain integration, cross-domain convergence, ancient embodied intelligence, semantic stability, conceptual universals, convergence analysis, statistical significance, historical linguistics, comparative linguistics, etymology",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p009",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "P011": {
+      "paper_id": "P011",
+      "file": "neolithic-revolution-linguistic-fingerprints_v03_EXPANDED_v04_CORRECTED.md",
+      "original_title": "SEO",
+      "metadata": {
+        "title_tag": "SEO | Morphographs",
+        "meta_description": "When we 17 concepts agricultural concepts stratified by domestication timing, a pattern emerged:. Explore linguistic convergence across ancient cultures.",
+        "keywords": [
+          "Neolithic revolution",
+          "agricultural linguistics",
+          "domestication vocabulary",
+          "prehistoric cognition",
+          "farming terminology",
+          "convergence analysis",
+          "statistical significance",
+          "historical linguistics",
+          "comparative linguistics",
+          "etymology"
+        ],
+        "canonical_url": "https://morphographs.com/papers/p011"
+      },
+      "open_graph": {
+        "og:type": "article",
+        "og:title": "SEO | Morphographs",
+        "og:description": "When we 17 concepts agricultural concepts stratified by domestication timing, a pattern emerged:. Explore linguistic convergence across ancient cultures.",
+        "og:url": "https://morphographs.com/papers/p011",
+        "og:site_name": "Morphographs Research",
+        "og:image": "https://morphographs.com/assets/social/p011_preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "article:author": "Nikos Hesse",
+        "article:published_time": "2026-01-08"
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@morphographs",
+        "twitter:title": "SEO | Morphographs",
+        "twitter:description": "When we 17 concepts agricultural concepts stratified by domestication timing, a pattern emerged:. Explore linguistic convergence across ancient cultures.",
+        "twitter:creator": "@nikoshesse"
+      },
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "SEO",
+        "description": "When we 17 concepts agricultural concepts stratified by domestication timing, a pattern emerged:. Explore linguistic convergence across ancient cultures.",
+        "keywords": "Neolithic revolution, agricultural linguistics, domestication vocabulary, prehistoric cognition, farming terminology, convergence analysis, statistical significance, historical linguistics, comparative linguistics, etymology",
+        "author": {
+          "@type": "Person",
+          "name": "Nikos Hesse",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Morphographs Research"
+          }
+        },
+        "datePublished": "2026-01-08",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Morphographs",
+          "url": "https://morphographs.com"
+        },
+        "url": "https://morphographs.com/papers/p011",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    }
+  }
+}
