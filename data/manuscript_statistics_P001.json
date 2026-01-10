@@ -1,0 +1,465 @@
+{
+  "P001": {
+    "convergence_score": [
+      {
+        "value": "convergence 0.793",
+        "context": "e- sults: Primary mathematical concepts show mean convergence 0.793 (SD=0.070), 1.71× higher than null controls 0.463",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "convergence 0.773",
+        "context": "earlier discovery/use. Babylonian √ 2 (1800 BCE, convergence 0.773) and Egyptian π approximation (1650 BCE, converge",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "convergence 0.725",
+        "context": "ce 0.773) and Egyptian π approximation (1650 BCE, convergence 0.725) align with archaeological tablet evidence, while",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "Score 0.60",
+        "context": "0 0.75 0.80 0.85 0.90 0.95 1.00 Practical Utility Score 0.60 0.65 0.70 0.75 0.80 0.85 0.90 Convergence Score M",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "convergence: 0.793",
+        "context": "2 VOLUME BASE-60 GOLDEN RATIO n=15 concepts Mean convergence: 0.793 Separation ratio: 1.71× Cohen's d = 5.40 Proto-Ma",
+        "page": 3,
+        "paper_id": "P001"
+      }
+    ],
+    "p_value": [
+      {
+        "value": "p<0.001",
+        "context": "null controls 0.463 (SD=0.047), Co- hen’s d=5.40 (p<0.001). Practical utility explains 77.6% of variance (R",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p=0.0022",
+        "context": "(R2=0.776). Convergence-age correlation r=0.727 (p=0.0022) validates encoding hypothesis. Top concepts: MEA",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "(p<0.001)",
+        "context": "null controls 0.463 (SD=0.047), Co- hen’s d=5.40 (p<0.001). Practical utility explains 77.6% of variance (R2",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "(p=0.0022)",
+        "context": "e (R2=0.776). Convergence-age correlation r=0.727 (p=0.0022) validates encoding hypothesis. Top concepts: MEAS",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p<0.001",
+        "context": "ll con- trols (mean=0.463, SD=0.047), t(17)=8.55, p<0.001, Cohen’s d=5.40 (Figure 2). Separation ratio 1.71",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p=0.0022",
+        "context": "ence Correlates with Archaeological Age (r=0.727, p=0.0022). We tested whether higher convergence reflects e",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p < 0.001",
+        "context": "T Linear Regression: R² = 0.926 (77.6%) r = 0.962 p < 0.001 n = 15 concepts = 0.642 Practical Utility Explain",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "(p < 0.001)",
+        "context": "er (n=3) MED tier (n=9) LOW tier (n=3) R² = 0.926 (p < 0.001) 95% CI Fig. 1. Practical Utility Predicts Converg",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p=0.0022",
+        "context": "HIGH tier MED tier LOW tier Linear fit: r=0.727, p=0.0022 95% CI Fig. 3. Convergence-Archaeological Age Cor",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p<0.001",
+        "context": "roduced millennia later, with effect size d=5.40 (p<0.001) indicating systematic encoding rather than rando",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "(p<0.001)",
+        "context": "troduced millennia later, with effect size d=5.40 (p<0.001) indicating systematic encoding rather than random",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p<0.001",
+        "context": "lies), (3) statistical testing (Co- hen’s d=5.40, p<0.001) confirming temporal sensitivity via null control",
+        "page": 4,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p<0.01",
+        "context": "served=0.79 vs. M- baseline=0.51 (excess=+3.1 SD, p<0.01), SQUARE ob- served=0.68 vs. CR- baseline=0.42 (e",
+        "page": 4,
+        "paper_id": "P001"
+      },
+      {
+        "value": "p<0.0001",
+        "context": "scores. The reported primary-to-null separation (p<0.0001) survives conservative multiple testing adjustmen",
+        "page": 5,
+        "paper_id": "P001"
+      },
+      {
+        "value": "(p<0.0001)",
+        "context": "t scores. The reported primary-to-null separation (p<0.0001) survives conservative multiple testing adjustment",
+        "page": 5,
+        "paper_id": "P001"
+      }
+    ],
+    "sample_size": [
+      {
+        "value": "n=15",
+        "context": "cepts exhibited mean convergence 0.793 (SD=0.070, n=15) compared to null controls 0.463 (SD=0.047, n=4),",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=4",
+        "context": "n=15) compared to null controls 0.463 (SD=0.047, n=4), yielding a separation ratio of 1.71× (independe",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "15 Concepts",
+        "context": "stic Structures: Archaeological Validation Across 15 Concepts Nicholas A. Hessea aUnaffiliated This manuscript",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=0",
+        "context": "s). Independent t-test shows primary concepts (mean=0.793, SD=0.072) converge significantly more strong",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n = 15",
+        "context": "egression: R² = 0.926 (77.6%) r = 0.962 p < 0.001 n = 15 concepts = 0.642 Practical Utility Explains 77.6%",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=3",
+        "context": "ce Drives Linguistic Encoding Strength HIGH tier (n=3) MED tier (n=9) LOW tier (n=3) R² = 0.926 (p < 0.",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=9",
+        "context": "istic Encoding Strength HIGH tier (n=3) MED tier (n=9) LOW tier (n=3) R² = 0.926 (p < 0.001) 95% CI Fig",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=15",
+        "context": "ience drives encoding strength. Primary Concepts (n=15) Null Controls (n=4) 0.4 0.5 0.6 0.7 0.8 0.9 Conv",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=4",
+        "context": "strength. Primary Concepts (n=15) Null Controls (n=4) 0.4 0.5 0.6 0.7 0.8 0.9 Convergence Score = 0.33",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "15 concepts",
+        "context": "ssion: R² = 0.926 (77.6%) r = 0.962 p < 0.001 n = 15 concepts = 0.642 Practical Utility Explains 77.6% of Conve",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=15",
+        "context": "IO AREA PYTHAGOREAN 2 VOLUME BASE-60 GOLDEN RATIO n=15 concepts Mean convergence: 0.793 Separation ratio",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "15 concepts",
+        "context": "AREA PYTHAGOREAN 2 VOLUME BASE-60 GOLDEN RATIO n=15 concepts Mean convergence: 0.793 Separation ratio: 1.71× C",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "n=15",
+        "context": ". Limitations and Future Directions. Sample size: n=15 pri- mary mathematical concepts limits statistica",
+        "page": 4,
+        "paper_id": "P001"
+      },
+      {
+        "value": "19 concepts",
+        "context": "for prac- tical utility scores (0.00–1.00) across 19 concepts (15 primary + 4 null controls). SEIF’s 21-method",
+        "page": 4,
+        "paper_id": "P001"
+      },
+      {
+        "value": "16 concepts",
+        "context": "generates 336 individual judgments (21 methods × 16 concepts). While primary statistical tests (t-tests, regre",
+        "page": 5,
+        "paper_id": "P001"
+      }
+    ],
+    "effect_size": [
+      {
+        "value": "r=0.727",
+        "context": "variance (R2=0.776). Convergence-age correlation r=0.727 (p=0.0022) validates encoding hypothesis. Top con",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "r=0.727",
+        "context": ". Convergence Correlates with Archaeological Age (r=0.727, p=0.0022). We tested whether higher convergence",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "r = 0.962",
+        "context": "ANGLE COUNT Linear Regression: R² = 0.926 (77.6%) r = 0.962 p < 0.001 n = 15 concepts = 0.642 Practical Utili",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "r=0.882",
+        "context": "ctical utility scores and linguistic convergence (r=0.882, p<0.001). High-utility concepts (MEASURE, RIGHT",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "Cohen's d = 4.81",
+        "context": "0.047 Independent t-test: t(17) = 8.55 p < 0.001 Cohen's d = 4.81 (Extremely Large Effect) Ancient Mathematical Kno",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "Cohen's d = 5.40",
+        "context": "vs Abstract Null Controls 1.71× Separation Ratio (Cohen's d = 5.40, p < 0.001) Median Mean Individual Concepts Fig.",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "R² = 0.926",
+        "context": "core MEASURE RIGHT ANGLE COUNT Linear Regression: R² = 0.926 (77.6%) r = 0.962 p < 0.001 n = 15 concepts = 0.6",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "r=0.727",
+        "context": "tructures HIGH tier MED tier LOW tier Linear fit: r=0.727, p=0.0022 95% CI Fig. 3. Convergence-Archaeologic",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "Cohen's d = 5.40",
+        "context": "s Mean convergence: 0.793 Separation ratio: 1.71× Cohen's d = 5.40 Proto-Mathematics: Convergence-Age Correlation An",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "r=0.727",
+        "context": "haeological Age. The convergence-age correlation (r=0.727, R2=0.544) suggests linguistic analysis can provi",
+        "page": 4,
+        "paper_id": "P001"
+      },
+      {
+        "value": "r=0.39",
+        "context": "44±0.09 (glow=0.52, glass=0.41, gleam=0.48, glitter=0.39, etc.). Results: CIRCLE observed=0.82 vs. GL- bas",
+        "page": 4,
+        "paper_id": "P001"
+      }
+    ],
+    "chi_square": [],
+    "t_test": [
+      {
+        "value": "t(17)=8.55",
+        "context": "a separation ratio of 1.71× (independent t-test: t(17)=8.55, p<0.001). Effect size Cohen’s d=5.40 exceeds the",
+        "page": 1,
+        "paper_id": "P001",
+        "groups": [
+          "17",
+          "8.55"
+        ]
+      },
+      {
+        "value": "t(17)=8.55",
+        "context": "ngly than null con- trols (mean=0.463, SD=0.047), t(17)=8.55, p<0.001, Cohen’s d=5.40 (Figure 2). Separation r",
+        "page": 2,
+        "paper_id": "P001",
+        "groups": [
+          "17",
+          "8.55"
+        ]
+      },
+      {
+        "value": "t(17) = 8.55",
+        "context": "0.463 Median: 0.476 SD: 0.047 Independent t-test: t(17) = 8.55 p < 0.001 Cohen's d = 4.81 (Extremely Large Effec",
+        "page": 2,
+        "paper_id": "P001",
+        "groups": [
+          "17",
+          "8.55"
+        ]
+      }
+    ],
+    "percentage": [
+      {
+        "value": "77.6%",
+        "context": "en’s d=5.40 (p<0.001). Practical utility explains 77.6% of variance (R2=0.776). Convergence-age correlati",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "6%",
+        "context": "s d=5.40 (p<0.001). Practical utility explains 77.6% of variance (R2=0.776). Convergence-age correlati",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "004%",
+        "context": "BC 7289 (∼1800 BCE) computes √ 2 as 1.414213 (0.00004% error), Plimpton 322 systematically generates 15",
+        "page": 1,
+        "paper_id": "P001"
+      },
+      {
+        "value": "74.6%",
+        "context": "ARY medumeh 0.396 NULL 1545 CE Mean (Null) 0.463 (74.6%) and cross-cultural convergence (73.1%). Empirica",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "73.1%",
+        "context": "ll) 0.463 (74.6%) and cross-cultural convergence (73.1%). Empirical precision contributes only 36.8% when",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "36.8%",
+        "context": "nce (73.1%). Empirical precision contributes only 36.8% when isolated, suggesting economic/survival salie",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "77.6%",
+        "context": "RIGHT ANGLE COUNT Linear Regression: R² = 0.926 (77.6%) r = 0.962 p < 0.001 n = 15 concepts = 0.642 Prac",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "54.4%",
+        "context": "ge preservation. (p=0.0022, R2=0.544), indicating 54.4% of convergence vari- ance explained by antiquity",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "6%",
+        "context": "medumeh 0.396 NULL 1545 CE Mean (Null) 0.463 (74.6%) and cross-cultural convergence (73.1%). Empirica",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "1%",
+        "context": "0.463 (74.6%) and cross-cultural convergence (73.1%). Empirical precision contributes only 36.8% when",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "8%",
+        "context": "(73.1%). Empirical precision contributes only 36.8% when isolated, suggesting economic/survival salie",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "95%",
+        "context": "tier (n=9) LOW tier (n=3) R² = 0.926 (p < 0.001) 95% CI Fig. 1. Practical Utility Predicts Convergence",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "4%",
+        "context": "preservation. (p=0.0022, R2=0.544), indicating 54.4% of convergence vari- ance explained by antiquity",
+        "page": 2,
+        "paper_id": "P001"
+      },
+      {
+        "value": "77.6%",
+        "context": "vergence correlation: Practical salience explains 77.6% of variance (R2=0.776), consistent with the Mater",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "0.6%",
+        "context": "formula (1850 BCE (7)) • Rhind Papyrus: π ≈3.16 (0.6% error, 1650 BCE (17, 18)) Linguistic convergence",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "95%",
+        "context": "r MED tier LOW tier Linear fit: r=0.727, p=0.0022 95% CI Fig. 3. Convergence-Archaeological Age Correla",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "6%",
+        "context": "gence correlation: Practical salience explains 77.6% of variance (R2=0.776), consistent with the Mater",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "004%",
+        "context": "500+ years earlier: • YBC 7289: √ 2=1.414213 (0.00004% error, 1800 BCE (13, 14)) • Plimpton 322: 15 Pyth",
+        "page": 3,
+        "paper_id": "P001"
+      },
+      {
+        "value": "004%",
+        "context": "esimal value 1;24,51,10 = 1.414213, precision 0.00004% error. Yale Peabody Museum. 14. Fowler D, Robson",
+        "page": 5,
+        "paper_id": "P001"
+      }
+    ],
+    "angle": [
+      {
+        "value": "0.05°",
+        "context": "ology: Great Pyramid Giza (right angle precision ±0.05°, 2600 BCE (6)), Stonehenge (circular geometry, 30",
+        "page": 5,
+        "paper_id": "P001"
+      }
+    ],
+    "reliability": [
+      {
+        "value": "ICC=0.971",
+        "context": "y study (“SEIF Framework Validation,” Hesse 2025, ICC=0.971) demonstrat- ing excellent criterion clarity when",
+        "page": 4,
+        "paper_id": "P001"
+      },
+      {
+        "value": "α=0.05",
+        "context": "cipy.stats, statsmodels). Significance threshold: α=0.05. Note on Multiple Comparisons: The 21-method SEIF",
+        "page": 5,
+        "paper_id": "P001"
+      },
+      {
+        "value": "α=0.000",
+        "context": ") remain significant under Bonferroni correction (α=0.00015), individual method-level scores should be inte",
+        "page": 5,
+        "paper_id": "P001"
+      }
+    ]
+  }
+}

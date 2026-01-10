@@ -1,0 +1,2752 @@
+{
+  "P004": {
+    "convergence_score": [
+      {
+        "value": "convergence 0.70",
+        "context": "h variable cultural implementations â' predicted convergence 0.70-0.75  LOW encoding: Culturally speci c domains (",
+        "page": 3,
+        "paper_id": "P004"
+      },
+      {
+        "value": "convergence: 0.552",
+        "context": "ins: Architecture characteristics:  Low baseline convergence: 0.5526 (lowest of all domains)  High quality variance:",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "convergence: 0.312",
+        "context": "(n=36) designed to test method sensitivity: Mean convergence: 0.3124 ± 0.0856 Primary concepts: 0.7251 ± 0.0771 T-tes",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "Score 0.793",
+        "context": "r Comparison 0.0 0.2 0.4 0.6 0.8 Mean Convergence Score 0.793 0.763 0.720 PIE Baseline ANOVA: F(2,38) = 5.93, p",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "convergence 0.186",
+        "context": "l concept (e.g., Copper smelting, 3500 BCE) shows convergence 0.186 units higher than an Iron Age concept (e.g., Stee",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "convergence 0.816",
+        "context": ".988, Medicine Q=0.980) already encode optimally (convergence 0.816-0.862). Quality weighting cannot improve what's a",
+        "page": 37,
+        "paper_id": "P004"
+      }
+    ],
+    "p_value": [
+      {
+        "value": "p=0.014",
+        "context": "alidated across two domains: Metallurgy R2=0.666, p=0.014, n=8; Astronomy R2=0.924, p<0.01, n=5), with Bron",
+        "page": 1,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.01",
+        "context": "lurgy R2=0.666, p=0.014, n=8; Astronomy R2=0.924, p<0.01, n=5), with Bronze Age concepts showing 15 Keywor",
+        "page": 1,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.007",
+        "context": "systematically (F=15.35, p=0.007, η2=0.86), with HIGH encoding in universal experi",
+        "page": 2,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "ins validate the mechanism (Metallurgy ∆R2=0.149, p<0.05). Using 21-method triangulation across pho- netic",
+        "page": 2,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "signi - cant between-domain variance (F-statistic p<0.05) with large e\u001bect size (η2≥0.70), support- ing HI",
+        "page": 4,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.014",
+        "context": "0.5661 + (0.000062 × antiquity_BCE) R2 = 0.6660, p = 0.014 (statistically signi cant at α=0.05) Coe cient in",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.687",
+        "context": "298  Normality assumption: Shapiro-Wilk W=0.948, p=0.687 (passed)  Homoscedasticity: Breusch-Pagan χ2=0.2",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.647",
+        "context": "assed)  Homoscedasticity: Breusch-Pagan χ2=0.21, p=0.647 (passed)  No in uential outliers: All Cook's D <",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.054",
+        "context": "y Period comparison:  Bronze vs. Iron: t = 2.69, p = 0.054 (marginal)  Bronze vs. Persian: t = 4.81, p = 0.",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.009",
+        "context": "0.054 (marginal)  Bronze vs. Persian: t = 4.81, p = 0.009 (signi cant)  Overall trend: Cohen's d = 1.71 (l",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.014",
+        "context": "(0.783 vs 0.679) Temporal Depth Model R2 = 0.666 p = 0.014 n = 8 Convergence = 0.566 + 0.000062 × Antiquity",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p < 0.01",
+        "context": "omain: Temporal Stratification 95% CI R² = 0.924, p < 0.01 HIGH encoding MODERATE encoding (A) Metallurgy (B",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "idation). (A) Metallurgy concepts (n=8, R2=0.666, p=0.014): Scatter plot showing convergence scores for 8 M",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.01",
+        "context": "vs 0.679). (B) Astronomy concepts (n=5, R2=0.924, p<0.01): Scatter plot show- ing quality-weighted converg",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "small n)  p-value stability: 847/1000 iterations p<0.05 (84.7% replication rate) Interpretation: While co",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p < 0.01",
+        "context": "quality-weighted convergence scores (R2 = 0.9236, p < 0.01). Each additional 1000 years of temporal depth pr",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.988",
+        "context": "esiduals were normally distributed (Shapiro- Wilk p = 0.988), though Constellation exhibited high in uence (C",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.35",
+        "context": "extiles 0.732 0.012 11 MOD ◦ PARTIAL (reg F=1.31, p=0.35) Ph1 4 Metallurgy 0.731 0.014 12 MOD ✓VALID (temp",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.007",
+        "context": "h HIGH > MODERATE > LOW Results: F(2, 5) = 15.35, p = 0.007, η2 = 0.86 (very large e\u001bect size) Interpretation",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p>0.05",
+        "context": " Normality: Shapiro-Wilk test per category, all p>0.05 (assumption met)  Homogeneity of variance: Leven",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.253",
+        "context": "mogeneity of variance: Levene's test F(2,5)=1.84, p=0.253 (assumption met)  Independence: Domains selected",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.026",
+        "context": "ATE: Mean di\u001b = +0.1139, 95% CI [0.0178, 0.2100], p = 0.026  HIGH vs. LOW: Mean di\u001b = +0.2267, 95% CI [0.087",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.008",
+        "context": "LOW: Mean di\u001b = +0.2267, 95% CI [0.0876, 0.3658], p = 0.008  MODERATE vs. LOW: Mean di\u001b = +0.1128, 95% CI [0",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.027",
+        "context": "LOW: Mean di\u001b = +0.1128, 95% CI [0.0167, 0.2089], p = 0.027 All three pairwise comparisons statistically sign",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.007",
+        "context": "alidates the domain taxonomy hypothesis (F=15.35, p=0.007, η2=0.86): encoding strength systematically varie",
+        "page": 14,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "h vari- ance) Validation threshold: ∆R2 ≥0.10 AND p<0.05 in correlation test Key pattern identi ed: Qualit",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.028",
+        "context": "ates with base- line quality uniformity (r=-0.72, p=0.028). 4.3.2 Metallurgy: Quality Mechanism VALIDATED M",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.345",
+        "context": "mong variable-quality domains: Pearson r = 0.386, p = 0.345 (marginal with n=8, but ∆R2 exceeds threshold) R2",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "Q=0.812) shows signi cant R2 increase (∆R2=0.149, p<0.05), validating the quality weighting mechanism. Arc",
+        "page": 17,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.346",
+        "context": "), Universal (n=3) One-Way ANOVA: F(4, 6) = 1.31, p = 0.346 (not signi cant at α=0.05) η2 = 0.466 (moderate e",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.120",
+        "context": ". Spatial autocorrelation (Moran's I): I = 0.361, p = 0.120 (bootstrap, not signi cant) Interpretation: Margi",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p>0.05",
+        "context": "dation status: ◦PARTIAL (patterns exist, F>1, but p>0.05 due to small n) 19",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.346",
+        "context": "e Statistical Tests: Textiles ANOVA: F(4,6)=1.31, p=0.346 No significant regional differences Architecture",
+        "page": 20,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=1.0",
+        "context": "fferences Architecture Spatial: Moran's I=-0.002, p=1.0 Weak spatial autocorrelation Interpretation: Univ",
+        "page": 20,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.073",
+        "context": "Regional Patterns One-Way ANOVA: F(3, 8) = 3.41, p = 0.073 (marginal signi cance) η2 = 0.561 (large e\u001bect si",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.042",
+        "context": "Tukey HSD post-hoc:  Mediterranean vs. Chinese: p = 0.042 (signi cant)  Mediterranean vs. Andean: p = 0.23",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.231",
+        "context": "= 0.042 (signi cant)  Mediterranean vs. Andean: p = 0.231 (n.s.)  Chinese vs. Andean: p = 0.089 (marginal)",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.089",
+        "context": "s. Andean: p = 0.231 (n.s.)  Chinese vs. Andean: p = 0.089 (marginal) Moran's I spatial autocorrelation: I =",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 1.000",
+        "context": "l) Moran's I spatial autocorrelation: I = -0.002, p = 1.000 (no spatial structure) Inter- pretation: Regional",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p < 0.001",
+        "context": "mary concepts: 0.7251 ± 0.0771 T-test: t = 23.45, p < 0.001, Cohen's d = 11.97 (extremely large e\u001bect) Interp",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.014",
+        "context": "IBUTION)  Metallurgy temporal model: R2 = 0.666, p = 0.014 (statistically signi cant)  Bronze Age boost: +1",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "s: 95% CI [0.345, 0.857], 84.7% replication rate (p<0.05)  Coe cient: β1 = +0.000062 per BCE year (millen",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.687",
+        "context": "62 convergence)  Model diagnostics: Shapiro-Wilk p=0.687, Breusch-Pagan p=0.647 (assumptions met)  Contri",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.647",
+        "context": "diagnostics: Shapiro-Wilk p=0.687, Breusch-Pagan p=0.647 (assumptions met)  Contribution: Temporal depth",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.007",
+        "context": "(SECONDARY VALIDATION)  ANOVA: F(2, 5) = 15.35, p = 0.007, η2 = 0.86 (very large e\u001bect)  Hierarchy con rme",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p<0.05)",
+        "context": "ss: 95% CI [0.345, 0.857], 84.7% replication rate (p<0.05)  Coe cient: β1 = +0.000062 per BCE year (millenn",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.346",
+        "context": "l/Spatial (Exploratory):  Textiles: F(4,6)=1.31, p=0.346 (n.s.), universal distribution  Architecture: F(",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.073",
+        "context": "iversal distribution  Architecture: F(3,8)=3.41, p=0.073 (marginal), Moran's I=-0.002, p=1.0  Status: ◦PA",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=1.0",
+        "context": "(3,8)=3.41, p=0.073 (marginal), Moran's I=-0.002, p=1.0  Status: ◦PARTIAL (patterns exist but underpower",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "cture Temporal Depth (Bronze Age Effect) R²=0.666 p=0.014 Regional/Spatial (Geographic Patterns) F=1.31 p=0",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.346",
+        "context": "014 Regional/Spatial (Geographic Patterns) F=1.31 p=0.346 I=-0.002 p=1.0 Attestation Quality (Weighting Mec",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=1.0",
+        "context": "ial (Geographic Patterns) F=1.31 p=0.346 I=-0.002 p=1.0 Attestation Quality (Weighting Mechanism) R²=0.09",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "hanism) R²=0.096 Ceiling No var. Ceiling R²=0.149 p<0.05 R²=+0.611 Baseline Summary (V/P/N) 0/1/2 0/1/2 2/",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.10",
+        "context": "/1 VALIDATED (p<0.05, large effect size) PARTIAL (p<0.10 or partial evidence) NOT TESTED (insufficient dat",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p<0.10)",
+        "context": ". Or- ange cells (◦PARTIAL): marginal signi cance (p<0.10), partial evidence, or ceiling e\u001bects. Gray cells",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.0058",
+        "context": ".7617]) Repeated-measures ANOVA: F(2, 38) = 5.93, p = 0.0058, η2_partial = 0.238 (large e\u001bect size) Planned co",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.026",
+        "context": ". Hebrew-Aramaic vs. Hebrew-Arabic: t(19) = 2.41, p = 0.026 (one-tailed), d = 0.357 2. Hebrew-Aramaic+Arabic",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.0025",
+        "context": "amaic+Arabic pooled vs. Hebrew-PIE: t(19) = 3.18, p = 0.0025 (one-tailed), d = 0.773 Interpretation: Results V",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.024",
+        "context": "ylogenetic e\u001bect strongest in Textiles (η2=0.605, p=0.024), moder- ate in Metallurgy (η2=0.460, p=0.080 mar",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.080",
+        "context": "05, p=0.024), moder- ate in Metallurgy (η2=0.460, p=0.080 marginal), and weak/non-signi cant in HIGH encodi",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p>0.17",
+        "context": "IGH encoding domains (Astronomy/Medicine η2≈0.33, p>0.17). This suggests phylogenetic proximity matters mo",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.0058",
+        "context": "3 0.763 0.720 PIE Baseline ANOVA: F(2,38) = 5.93, p = 0.0058 Hierarchy: Aramaic > Arabic > PIE Figure 6. Proto",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.0058",
+        "context": "93) > Arabic (0.763) > PIE (0.720), F(2,38)=5.93, p=0.0058, η2=0.238. Inset panel displays domain-level brea",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.024",
+        "context": "ylogenetic e\u001bect strongest in Textiles (η2=0.605, p=0.024), moderate in Metallurgy (η2=0.460, p=0.080, marg",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.080",
+        "context": ".605, p=0.024), moderate in Metallurgy (η2=0.460, p=0.080, marginal), weak in Medicine/Astronomy (η2<0.35,",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p>0.17",
+        "context": ", marginal), weak in Medicine/Astronomy (η2<0.35, p>0.17, n.s.). Interpretation: Convergence framework exh",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.041",
+        "context": "idge (α=1.0) 0.7389 ± 0.038 +0.0188 0.0505 ± 0.01 p = 0.041 LASSO (α=0.01) 0.7402 ± 0.037 +0.0201 0.0503 ± 0.",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.037",
+        "context": "SSO (α=0.01) 0.7402 ± 0.037 +0.0201 0.0503 ± 0.01 p = 0.037 Interpretation: Both Ridge and LASSO achieve stat",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.041",
+        "context": "ments over equal-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). E\u001bect sizes are modest b",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.037",
+        "context": "ed baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). E\u001bect sizes are modest but consistent across cr",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p < 0.05",
+        "context": "ositive and statis- tically signi cant (r > 0.30, p < 0.05). Methodological constraint: Full archaeological",
+        "page": 29,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.041",
+        "context": "s- validated R2 comparison showing Ridge (+1.88%, p=0.041) and LASSO (+2.01%, p=0.037) outperform equal-wei",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.037",
+        "context": "howing Ridge (+1.88%, p=0.041) and LASSO (+2.01%, p=0.037) outperform equal-weighted baseline (error bars =",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "5 folds). Statistical signi cance indicated by * (p<0.05). (B) LASSO feature selection results: 14 of 21 m",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p<0.05)",
+        "context": "5 folds). Statistical signi cance indicated by * (p<0.05). (B) LASSO feature selection results: 14 of 21 me",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.577",
+        "context": "on. 4.9.3 Results Pearson correlation: r = 0.217, p = 0.577 (two-tailed), 95% CI [-0.529, 0.764] Interpretati",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.577",
+        "context": "ction but fails to reach statistical signi cance (p=0.577 \u0014 0.05). Wide con dence interval ([-0.529, 0.764]",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.460",
+        "context": "correlation (robust to non-linearity): ρ = 0.283, p = 0.460 (still n.s.). Domain-level pattern: Splitting by",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.481",
+        "context": "ure concepts (Olive Oil, Wheat, Figs): r = 0.421, p = 0.481 (n=3, small n)  Metallurgy concepts (Bronze Tool",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.939",
+        "context": "oncepts (Bronze Tool, Copper, Timber): r = 0.105, p = 0.939 (n=3, near-zero)  Livestock concept (Sheep): sin",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.577",
+        "context": ". Magnitude insu cient (r=0.217 < 0.30 threshold, p=0.577 n.s.) 3. Sample size limiting factor (n=9 â' 85%",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "vergence variance in Metallurgy domain (R2=0.666, p=0.014, Figure 2) represents a novel and substantial con",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "n: 84.7% replication rate across 1000 iterations (p<0.05) Practical interpretation: A Bronze Age metallurg",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p<0.05)",
+        "context": "on: 84.7% replication rate across 1000 iterations (p<0.05) Practical interpretation: A Bronze Age metallurgi",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p = 0.574",
+        "context": "l Sheep Linen Honey Timber Figs Copper r = 0.217, p = 0.574 n = 9 (underpowered) Opp 8: n=61 planned Partial",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.577",
+        "context": "shows linear regression t (slope=0.0021, r=0.217, p=0.577, n.s.). Shaded region = 95% con dence band (wide",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "ally signi cant temporal depth e\u001bects (Metallurgy p=0.014, Astronomy p<0.01), (2) positive slopes indicatin",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.01",
+        "context": "poral depth e\u001bects (Metallurgy p=0.014, Astronomy p<0.01), (2) positive slopes indicating older concepts c",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.346",
+        "context": "between Textiles' universal distribution (F=1.31, p=0.346, non-signi cant re- gional variance) and Architec",
+        "page": 38,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.073",
+        "context": "cture's marginal regional specialization (F=3.41, p=0.073) illu- minates knowledge transmission patterns: U",
+        "page": 38,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "sensitivity analysis con rmed model signi cance (p<0.05) persists with Constellation removed, indicating",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p<0.05)",
+        "context": ", sensitivity analysis con rmed model signi cance (p<0.05) persists with Constellation removed, indicating t",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.0058",
+        "context": "rabic (0.763) > Hebrew-PIE (0.720), F(2,38)=5.93, p=0.0058. This establishes proof-of-concept for multi-lang",
+        "page": 43,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.041",
+        "context": "ments over equal-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). SHAP interpretability an",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.037",
+        "context": "ed baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). SHAP interpretability analysis revealed: Optima",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.577",
+        "context": "t proxy) for n=9 Bronze Age commodities: r=0.217, p=0.577 (n.s.). Positive direction aligns with hypothesis",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "ently predicts convergence: Metallurgy (R2=0.666, p=0.014, n=8) and Astronomy (R2=0.924, p<0.01, n=5). Bron",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.01",
+        "context": "(R2=0.666, p=0.014, n=8) and Astronomy (R2=0.924, p<0.01, n=5). Bronze Age concepts show 15.3% higher conv",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.007",
+        "context": "Encoding Taxonomy (SECONDARY VALIDATION: F=15.35, p=0.007, η2=0.86) Systematic encoding hierarchy emerges a",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p<0.05",
+        "context": "variable-quality domains (Metallurgy ∆R2=+0.149, p<0.05) but shows ceiling e\u001bects in optimal-quality doma",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.0058",
+        "context": "rabic (0.763) > Hebrew-PIE (0.720), F(2,38)=5.93, p=0.0058, η2=0.238. Convergence framework exhibits expecte",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.024",
+        "context": "n culturally variable domains (Textiles η2=0.605, p=0.024) where language contact matters more, weaker in u",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p>0.17",
+        "context": "niversal experiences (Astronomy/Medicine η2<0.35, p>0.17) where encoding transcends phylogeny. Phase I imp",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.041",
+        "context": "Pilot 3): ✓VALIDATED Ridge regression (+1.88% R2, p=0.041) and LASSO (+2.01% R2, p=0.037) achieve statistic",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.037",
+        "context": "ession (+1.88% R2, p=0.041) and LASSO (+2.01% R2, p=0.037) achieve statistically signi cant improvements ov",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.577",
+        "context": "and Linear B tablet attestation counts (r=0.217, p=0.577, n=9 commodities). Wide con dence interval ([-0.5",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "ence of temporal depth e\u001bects (PRIMARY: R2=0.666, p=0.014), domain taxon- omy (SECONDARY: η2=0.86, p=0.007)",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.007",
+        "context": "p=0.014), domain taxon- omy (SECONDARY: η2=0.86, p=0.007), and attestation quality mechanisms (TERTIARY: c",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.007",
+        "context": "SS=0.1180, Within-groups SS=0.0192, F(2,5)=15.35, p=0.007  E\u001bect size η2=0.86 (86% variance explained by e",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p>0.05",
+        "context": " Assumption checks: Shapiro-Wilk normality (all p>0.05), Levene's homogeneity F(2,5)=1.84, p=0.253  Tuk",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.253",
+        "context": "y (all p>0.05), Levene's homogeneity F(2,5)=1.84, p=0.253  Tukey HSD post-hoc comparisons: HIGH-MODERATE ∆",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.026",
+        "context": "HSD post-hoc comparisons: HIGH-MODERATE ∆=0.1139 (p=0.026), HIGH- LOW ∆=0.2267 (p=0.008), MODERATE-LOW ∆=0.",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.008",
+        "context": "-MODERATE ∆=0.1139 (p=0.026), HIGH- LOW ∆=0.2267 (p=0.008), MODERATE-LOW ∆=0.1128 (p=0.027)  Complete pair",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.027",
+        "context": "H- LOW ∆=0.2267 (p=0.008), MODERATE-LOW ∆=0.1128 (p=0.027)  Complete pairwise comparison matrix with con d",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.014",
+        "context": "BCE)  R2=0.666, adjusted R2=0.610, F(1,6)=11.96, p=0.014  Coe cient β1 t-statistic: t=3.46, SE=0.000018,",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.687",
+        "context": "ual diagnostics: SE=0.0298, Shapiro-Wilk W=0.948 (p=0.687), Breusch-Pagan χ2=0.21 (p=0.647)  In uence stat",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.647",
+        "context": "ro-Wilk W=0.948 (p=0.687), Breusch-Pagan χ2=0.21 (p=0.647)  In uence statistics: All Cook's D<0.5, no outl",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.346",
+        "context": "Task 4.4)  Textiles regional ANOVA: F(4,6)=1.31, p=0.346 (non-signi cant)  Architecture regional ANOVA: F",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.073",
+        "context": "cant)  Architecture regional ANOVA: F(3,8)=3.41, p=0.073 (marginal)  Moran's I spatial autocorrelation: T",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=0.120",
+        "context": "an's I spatial autocorrelation: Textiles I=0.361, p=0.120; Architecture I=-0.002, p=1.000  Regional conver",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "p=1.000",
+        "context": "Textiles I=0.361, p=0.120; Architecture I=-0.002, p=1.000  Regional convergence means with standard errors",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p=0.026)",
+        "context": "HSD post-hoc comparisons: HIGH-MODERATE ∆=0.1139 (p=0.026), HIGH- LOW ∆=0.2267 (p=0.008), MODERATE-LOW ∆=0.1",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p=0.008)",
+        "context": "H-MODERATE ∆=0.1139 (p=0.026), HIGH- LOW ∆=0.2267 (p=0.008), MODERATE-LOW ∆=0.1128 (p=0.027)  Complete pairw",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p=0.027)",
+        "context": "GH- LOW ∆=0.2267 (p=0.008), MODERATE-LOW ∆=0.1128 (p=0.027)  Complete pairwise comparison matrix with con de",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p=0.687)",
+        "context": "dual diagnostics: SE=0.0298, Shapiro-Wilk W=0.948 (p=0.687), Breusch-Pagan χ2=0.21 (p=0.647)  In uence stati",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "(p=0.647)",
+        "context": "iro-Wilk W=0.948 (p=0.687), Breusch-Pagan χ2=0.21 (p=0.647)  In uence statistics: All Cook's D<0.5, no outli",
+        "page": 53,
+        "paper_id": "P004"
+      }
+    ],
+    "sample_size": [
+      {
+        "value": "n=8",
+        "context": "across two domains: Metallurgy R2=0.666, p=0.014, n=8; Astronomy R2=0.924, p<0.01, n=5), with Bronze Ag",
+        "page": 1,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "=0.666, p=0.014, n=8; Astronomy R2=0.924, p<0.01, n=5), with Bronze Age concepts showing 15 Keywords: P",
+        "page": 1,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "ough multi-method convergence analysis. Analyzing 137 concepts across 8 semantic domains (Astronomy, Medicine, M",
+        "page": 1,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1000",
+        "context": "2), bootstrap con dence intervals for robustness (n=1000 iterations). RQ2: Domain Taxonomy Emergence (SECO",
+        "page": 4,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=137",
+        "context": "s or those with limited attestation. Sample size (n=137 concepts across 8 domains) permits domain-level t",
+        "page": 4,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "or those with limited attestation. Sample size (n=137 concepts across 8 domains) permits domain-level taxonomy b",
+        "page": 4,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=15",
+        "context": "l depths and attestation qualities: 1. Astronomy (n=15 primary, 5 null): Celestial phenomena, zodiacal o",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=14",
+        "context": "iacal observations, planetary cycles 2. Medicine (n=14 primary, 5 null): Anatomical terms, disease nomen",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=12",
+        "context": "nomencla- ture, treatment concepts 3. Metallurgy (n=12 primary, 4 null): Ore processing, alloying, tempe",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=11",
+        "context": "sing, alloying, tempering techniques 4. Textiles (n=11 primary, 4 null): Weaving methods, ber types, dye",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=13",
+        "context": "hods, ber types, dyeing processes 5. Mathematics (n=13 primary, 5 null): Geometric shapes, arithmetic op",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=10",
+        "context": "tices, irrigation, crop processing 7. Navigation (n=10 primary, 4 null): Maritime terminology, direction",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=101",
+        "context": "struction techniques, materials Primary concepts (n=101) were selected based on:  Clear proto-Hebrew att",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=36",
+        "context": "ersity (spanning 3300 BCE - 0 BCE) Null concepts (n=36 control group) included:  Modern neologisms with",
+        "page": 5,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1000",
+        "context": "tribution  I < 0: Dispersion Bootstrap p-values (n=1000 permutations) assess signi cance. 8",
+        "page": 8,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "h Model (PRIMARY CONTRIBUTION) Metallurgy domain (n=8 primary concepts) provided the strongest validati",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n = 8",
+        "context": "0.679) Temporal Depth Model R2 = 0.666 p = 0.014 n = 8 Convergence = 0.566 + 0.000062 × Antiquity Tempor",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "two-domain validation). (A) Metallurgy concepts (n=8, R2=0.666, p=0.014): Scatter plot showing converg",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "ge mean (0.783 vs 0.679). (B) Astronomy concepts (n=5, R2=0.924, p<0.01): Scatter plot show- ing qualit",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=13",
+        "context": "al technologies). Combined two-domain validation (n=13 total) demonstrates temporal depth consistently p",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "[0.3452, 0.8574] (wide range re ects small sample n=8)  Temporal coe cient β1: [0.000021, 0.000103] ",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=13",
+        "context": "ined with Metallurgy data, two-domain validation (n=13 total) demonstrates that temporal depth consisten",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "Math (adv) 0.618 0.045 8 LOW PILOT (Phase 0 ext, n=8) Pilot 15 Astro (adv) 0.401 0.019 10 LOW PILOT (P",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1000",
+        "context": "iterations, Phase 4 Task 4.1 for Phase 1 domains, n=1000 for Pilot 1 domains) show low variability (CV ran",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=108",
+        "context": "sion Pilot (Pilot 1, Â3.7): Added 7 new domains (n=108 concepts total) using simpli ed 5-method converge",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=0",
+        "context": "il- ity. Pilot domains show lower convergence (mean=0.5653) than Phase 1 validated domains (mean=0.7281",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "idation planned for Phase I expansion (2026-2027, n=342 concepts). Expansion opportunity annotations (rig",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "30 concepts",
+        "context": "domain estimates despite modest sample sizes (n=8-30 concepts per domain). Phase 0 Domain Expansion Pilot (Pilo",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "108 concepts",
+        "context": "on Pilot (Pilot 1, Â3.7): Added 7 new domains (n=108 concepts total) using simpli ed 5-method convergence scori",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "ation planned for Phase I expansion (2026-2027, n=342 concepts). Expansion opportunity annotations (right column",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=2",
+        "context": "are color-coded by encoding category: HIGH (blue, n=2: Astronomy 0.862, Medicine 0.816) for universal h",
+        "page": 14,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=4",
+        "context": "for universal human experiences; MODERATE (green, n=4: Textiles 0.732, Metallurgy 0.731, Mathematics 0.",
+        "page": 14,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1 concepts",
+        "context": "ttestation quality formula retroactively to Phase 1 concepts: Q = (temporal × 0.4) + (speci city × 0.4) + (tra",
+        "page": 15,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "ains: Pearson r = 0.386, p = 0.345 (marginal with n=8, but ∆R2 exceeds threshold) R2 improvement: +0.14",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1 concepts",
+        "context": "(transmission×0.2) applied retroactively to Phase 1 concepts. Yellow bars indicate ceiling e\u001bect: high-quality",
+        "page": 17,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=3",
+        "context": "encoding specialization: Regions: Mediterranean (n=3), Andean (n=2), Chinese (n=2), Mayan (n=1), Unive",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=2",
+        "context": "ialization: Regions: Mediterranean (n=3), Andean (n=2), Chinese (n=2), Mayan (n=1), Universal (n=3) One",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "ranean (n=3), Andean (n=2), Chinese (n=2), Mayan (n=1), Universal (n=3) One-Way ANOVA: F(4, 6) = 1.31,",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "ecture) Note: Based on aggregated regional means (n=1 per region) - illustrative only Figure 4: Regiona",
+        "page": 20,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "all regional/spatial nding: Current sample sizes (n=1-3 per region) insu cient for robust spatial analy",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=36",
+        "context": "4.5 Null Concept Control Analysis Null concepts (n=36) designed to test method sensitivity: Mean conver",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "10 concepts",
+        "context": "phic sampling (Phase 4 Task 4.4 recommendation: n≥10 concepts per region for β≥0.80 power). See Figure 3 for he",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "tatus: ◦PARTIAL (patterns exist but underpowered, n=1-3 per region insu cient)  Recommendation: Denser",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=108",
+        "context": "n rm- ing framework scalability (domain expansion n=108 feasible), methodological adapt- ability (5-metho",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=20",
+        "context": "amework, al- lowing rapid feasibility assessment (n=20 concepts across 4 domains). 4.7.2 Methods Corpus:",
+        "page": 25,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "elected from Phase 1 validated domains (Astronomy n=5, Medicine n=5, Metallurgy n=5, Textiles n=5) to e",
+        "page": 25,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20 concepts",
+        "context": "ework, al- lowing rapid feasibility assessment (n=20 concepts across 4 domains). 4.7.2 Methods Corpus: 20 conce",
+        "page": 25,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=20",
+        "context": "alidation Convergence Scores by Genetic Distance (n=20 concepts) Figure 6: Proto-Semitic Phylogenetic Hi",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20 concepts",
+        "context": "idation Convergence Scores by Genetic Distance (n=20 concepts) Figure 6: Proto-Semitic Phylogenetic Hierarchy V",
+        "page": 27,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=137",
+        "context": "ds Dataset: Phase 1 comprehensive synthesis data (n=137 concepts across 8 domains), 21- method convergenc",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "Dataset: Phase 1 comprehensive synthesis data (n=137 concepts across 8 domains), 21- method convergence scores",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=14",
+        "context": "Feature Selection: Of 21 methods, LASSO retained n=14 methods (7 methods set to zero weight): Retained",
+        "page": 29,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=9",
+        "context": "ty 8 execution Nov-Dec 2025). This pilot employed n=9 commodity concepts from existing SEIF (Systematic",
+        "page": 29,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=137",
+        "context": "7 Feature Importance Ridge vs. LASSO Regression (n=137 concepts) Ridge LASSO Figure 7: Machine Learning",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "improve e ciency for large-scale corpus analysis (n=342 concepts, 13 languages) while maintaining or exce",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "Feature Importance Ridge vs. LASSO Regression (n=137 concepts) Ridge LASSO Figure 7: Machine Learning Method Op",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "prove e ciency for large-scale corpus analysis (n=342 concepts, 13 languages) while maintaining or exceeding equ",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=52",
+        "context": "1. Olive Oil (*141 OLIV, n=52 tablet attestations) 2. Sheep (*106 OVISm / *107",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=47",
+        "context": "attestations) 2. Sheep (*106 OVISm / *107 OVISf, n=47 attestations) 3. Wheat (*120 GRA, n=28 attestatio",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=28",
+        "context": "107 OVISf, n=47 attestations) 3. Wheat (*120 GRA, n=28 attestations) 4. Honey (*126 MEL, n=8 attestation",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "(*120 GRA, n=28 attestations) 4. Honey (*126 MEL, n=8 attestations) 5. Bronze Tool (*258, n=15 attestat",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=15",
+        "context": "*126 MEL, n=8 attestations) 5. Bronze Tool (*258, n=15 attestations) 6. Timber (*124, n=6 attestations)",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=6",
+        "context": "e Tool (*258, n=15 attestations) 6. Timber (*124, n=6 attestations) 7. Linen (*159 TE, n=9 attestations",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=9",
+        "context": "imber (*124, n=6 attestations) 7. Linen (*159 TE, n=9 attestations) 8. Figs (*122 NI, n=5 attestations)",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "nen (*159 TE, n=9 attestations) 8. Figs (*122 NI, n=5 attestations) 9. Copper (*130, n=4 attestations)",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=4",
+        "context": "Figs (*122 NI, n=5 attestations) 9. Copper (*130, n=4 attestations) Archaeological attestation metric:",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=61",
+        "context": "ty 8 will use site-based archaeological catalogs (n=61 commodi- ties, 682+ attestations). Convergence sc",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=3",
+        "context": "s (Olive Oil, Wheat, Figs): r = 0.421, p = 0.481 (n=3, small n)  Metallurgy concepts (Bronze Tool, Cop",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=9",
+        "context": "ld, p=0.577 n.s.) 3. Sample size limiting factor (n=9 â' 85% probability Type II error) 4. Methodologi",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=61",
+        "context": "Full Opportunity 8 execution (Nov-Dec 2025) with n=61 com- modities and site-based archaeological catal",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n = 9",
+        "context": "nen Honey Timber Figs Copper r = 0.217, p = 0.574 n = 9 (underpowered) Opp 8: n=61 planned Partial Valida",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=61",
+        "context": "r = 0.217, p = 0.574 n = 9 (underpowered) Opp 8: n=61 planned Partial Validation (Pilot study) Figure 8",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=9",
+        "context": "Correlation SEIF M-Index vs. Domain Convergence (n=9 commodities, PILOT) Linear Regression 20 21 22 23",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n = 95",
+        "context": "lope=0.0021, r=0.217, p=0.577, n.s.). Shaded region = 95% con dence band (wide due to small n=9). Error ba",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "Robustness despite small sample: While n=8 Metallurgy concepts is modest, boot- strap con de",
+        "page": 34,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "ral depth analysis in a second domain (Astronomy, n=5) provides crit- ical validation of the encoding t",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=13",
+        "context": "ical predictions. Combined two-domain validation (n=13 to- tal) demonstrates temporal strati cation is n",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": ".1 Sample Size Constraints Domain-level analysis (n=8 domains) permits taxonomy establishment but limit",
+        "page": 38,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "alidation: Extended analysis to Astronomy domain (n=5) combined with Metallurgy (n=8) provides prelimin",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "Astronomy domain (n=5) combined with Metallurgy (n=8) provides preliminary two-domain support (n=13 to",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=13",
+        "context": "gy (n=8) provides preliminary two-domain support (n=13 total). However, this sample size remains modest",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=101",
+        "context": "lurgy-Astronomy artifact. Concept-level analysis (n=101 primary, 36 null) adequate for convergence scorin",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=10",
+        "context": "ucted, results robust)  Some domains (Navigation n=10, Architecture n=12) approach minimal sample for s",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=12",
+        "context": "st)  Some domains (Navigation n=10, Architecture n=12) approach minimal sample for statistical tests ",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=36",
+        "context": "r statistical tests  Null concept control group (n=36) smaller than ideal 1:1 ratio with primary Barrie",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "expansion planning: Phase I expansion (2026-2027, n=342 concepts, 13 languages) requires addressing concr",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=300",
+        "context": "barrier analysis:  Sample size scaling: Requires n=300+ concepts across 15+ domains (feasible per Pilot",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=108",
+        "context": "s 15+ domains (feasible per Pilot 1 demonstrating n=108 expansion methodology)  Data dependency critical",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "ap)  Temporal scope limitation: Full validation (n=1,000 concepts, 25 languages, Phase V 2032-2035) ex",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "pansion planning: Phase I expansion (2026-2027, n=342 concepts, 13 languages) requires addressing concrete data",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "000 concepts",
+        "context": " Temporal scope limitation: Full validation (n=1,000 concepts, 25 languages, Phase V 2032-2035) exceeds single-",
+        "page": 39,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=137",
+        "context": "al transparency note: Phase 0 baseline framework (n=137 Hebrew-PIE) deliberately focuses on proof-of-conc",
+        "page": 40,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=108",
+        "context": "1 (Â3.7, Table 2 rows 8-15) added 7 new domains (n=108 concepts, simpli ed 5-method scoring):  Ritual/R",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=30",
+        "context": "ed 5-method scoring):  Ritual/Religious (0.634, n=30): Sacred vocabulary encoding in culturally variab",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=20",
+        "context": "in culturally variable contexts  Kinship (0.569, n=20): Universal social structure vs. terminology borr",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=15",
+        "context": "ructure vs. terminology borrowing  Color (0.557, n=15): Berlin & Kay universals vs. cultural naming var",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=10",
+        "context": "construction of a\u001bect  Proto-Metallurgy (0.564, n=10): Advanced Bronze Age techniques (smelting, alloy",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "ing, hardening)  Mathematics extensions (0.618, n=8): Advanced concepts (geometry, fractions) vs. Pha",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "108 concepts",
+        "context": "(Â3.7, Table 2 rows 8-15) added 7 new domains (n=108 concepts, simpli ed 5-method scoring):  Ritual/Religious",
+        "page": 41,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=20",
+        "context": "loyed simpli ed 5-method scoring for feasibility (n=20 concepts). Phase I will use full 21-method framew",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=14",
+        "context": "weighting (LASSO feature selection):  Retained (n=14 methods): Phonetic (β=0.182, rank #1), semantic (",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=7",
+        "context": "ve weight) acts as contamination lter.  Removed (n=7 methods, weight=0): A xation complexity measures",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "uces calculation burden by 33% for large corpora (n=342 concepts × 13 languages = 4,446 language pairs â",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20 concepts",
+        "context": "yed simpli ed 5-method scoring for feasibility (n=20 concepts). Phase I will use full 21-method framework with",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "es calculation burden by 33% for large corpora (n=342 concepts × 13 languages = 4,446 language pairs â' 1,481 f",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=137",
+        "context": "roximity, term speci city, transmission mode) for n=137 concepts required 20 hours expert labor.  Transf",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "ase I e ciency gain: Automate quality scoring for n=342 concepts (saves 40-60 hours), enabling rapid expa",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=245",
+        "context": "ce).  Training data: Phase 1 + Pilot 1 combined (n=245 concepts) with features: do- main (categorical),",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "ximity, term speci city, transmission mode) for n=137 concepts required 20 hours expert labor.  Transfer learni",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "e I e ciency gain: Automate quality scoring for n=342 concepts (saves 40-60 hours), enabling rapid expansion wit",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "245 concepts",
+        "context": ").  Training data: Phase 1 + Pilot 1 combined (n=245 concepts) with features: do- main (categorical), temporal_",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "for large-scale computational e ciency (Phase III n=1,000 concepts across 25 languages infeasible with",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=9",
+        "context": "al attestation counts (Linear B tablet proxy) for n=9 Bronze Age commodities: r=0.217, p=0.577 (n.s.).",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=61",
+        "context": "5, approved GO decision Oct 27): Expanded corpus: n=61 Linear B commodity concepts (exceeds n=50 target",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=50",
+        "context": "corpus: n=61 Linear B commodity concepts (exceeds n=50 target by 22%), 682+ tablet attestations across 4",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "000 concepts",
+        "context": "large-scale computational e ciency (Phase III n=1,000 concepts across 25 languages infeasible with manual 21-met",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=13",
+        "context": "tion (PRIMARY CONTRIBUTION: Two-Domain Validation n=13) Conceptual antiquity is the primary driver of cr",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "dicts convergence: Metallurgy (R2=0.666, p=0.014, n=8) and Astronomy (R2=0.924, p<0.01, n=5). Bronze Ag",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=5",
+        "context": "6, p=0.014, n=8) and Astronomy (R2=0.924, p<0.01, n=5). Bronze Age concepts show 15.3% higher convergen",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "inform Phase I plan- ning (2026-2027 expansion to n=342 concepts, 13 languages) through feasibility testi",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "form Phase I plan- ning (2026-2027 expansion to n=342 concepts, 13 languages) through feasibility testing and me",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=342",
+        "context": "improve e ciency for large-scale corpus analysis (n=342 concepts × 13 languages = 4,446 language pairs) w",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=9",
+        "context": "ar B tablet attestation counts (r=0.217, p=0.577, n=9 commodities). Wide con dence interval ([-0.529, 0",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=61",
+        "context": "tu- nity 8 Full Execution (Nov-Dec 2025): Planned n=61 commodities with site-based archaeological catalo",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=137",
+        "context": "ve ex- pansion from baseline Hebrew-PIE analysis (n=137 concepts, 2 languages) to comprehen- sive proto-l",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "uage comparative study (Phase I n=342, Phase II-V n=1,000+ across 25 languages, 2026-2035 roadmap). 6.1",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "342 concepts",
+        "context": "prove e ciency for large-scale corpus analysis (n=342 concepts × 13 languages = 4,446 language pairs) while main",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "ex- pansion from baseline Hebrew-PIE analysis (n=137 concepts, 2 languages) to comprehen- sive proto-language c",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "e 4 Task 4.3)  Temporal depth model (Metallurgy, n=8): Convergence = 0.5661 + (0.000062 × an- tiquity_",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=1",
+        "context": "ns with standard errors  Power analysis: Current n=1-3 per region insu cient, recommend n≥10 for β≥0.8",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=8",
+        "context": "lines): Temporal depth regression for Metallurgy (n=8). Coe cient estimates, diagnostics, predicted val",
+        "page": 54,
+        "paper_id": "P004"
+      },
+      {
+        "value": "137 concepts",
+        "context": "mprehensive_ synthesis_phase1.json, 1,847 lines): 137 concepts (101 primary + 36 null) across 8 domains. 21-meth",
+        "page": 54,
+        "paper_id": "P004"
+      },
+      {
+        "value": "34 concepts",
+        "context": "es): Retroactive quality weighting for 6 domains (34 concepts). Quality formula Q = 0.4(temporal) + 0.4(speci c",
+        "page": 54,
+        "paper_id": "P004"
+      },
+      {
+        "value": "n=500",
+        "context": "cient for CI stabilization, veri ed by pilot runs n=500, 2000)  Random seed: 42 (reproducibility)  Con",
+        "page": 57,
+        "paper_id": "P004"
+      },
+      {
+        "value": "10 concepts",
+        "context": "formative prior) 3. Denser geographic sampling (n≥10 concepts per region for spatial autocorrelation) 4. Altern",
+        "page": 57,
+        "paper_id": "P004"
+      }
+    ],
+    "effect_size": [
+      {
+        "value": "r=0.73",
+        "context": "calibration improved domain ranking accuracy from r=0.73 to r=0.89 when vali- dated against independent ex",
+        "page": 6,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.89",
+        "context": "n improved domain ranking accuracy from r=0.73 to r=0.89 when vali- dated against independent expert asses",
+        "page": 6,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r = 0.000",
+        "context": "rgence units t-statistic: β1 = 3.46, standard error = 0.000018 Model diagnostics (Phase 4 validation):  Resi",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "Cohen's d = 1.71",
+        "context": "t = 4.81, p = 0.009 (signi cant)  Overall trend: Cohen's d = 1.71 (large e\u001bect) Temporal Threshold: Model predicts",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "R² = 0.924",
+        "context": "Astronomy Domain: Temporal Stratification 95% CI R² = 0.924, p < 0.01 HIGH encoding MODERATE encoding (A) Met",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r = 0.386",
+        "context": "rrelation among variable-quality domains: Pearson r = 0.386, p = 0.345 (marginal with n=8, but ∆R2 exceeds th",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "R²=0.149",
+        "context": "² 0.1) Variable-Quality (Metallurgy): VALIDATED ( R²=0.149) Architecture: R²=+0.611 Attestation Quality Weig",
+        "page": 17,
+        "paper_id": "P004"
+      },
+      {
+        "value": "R²=0.666",
+        "context": "n Architecture Temporal Depth (Bronze Age Effect) R²=0.666 p=0.014 Regional/Spatial (Geographic Patterns) F=",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "R²=0.096",
+        "context": "2 p=1.0 Attestation Quality (Weighting Mechanism) R²=0.096 Ceiling No var. Ceiling R²=0.149 p<0.05 R²=+0.611",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "R²=0.149",
+        "context": "hting Mechanism) R²=0.096 Ceiling No var. Ceiling R²=0.149 p<0.05 R²=+0.611 Baseline Summary (V/P/N) 0/1/2 0",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r = 0.217",
+        "context": "ransformation. 4.9.3 Results Pearson correlation: r = 0.217, p = 0.577 (two-tailed), 95% CI [-0.529, 0.764] I",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.217",
+        "context": "529, 0.764] Interpretation: Positive correlation (r=0.217) aligns with hypothesis direction but fails to re",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.30",
+        "context": "tical power for de- tecting moderate correlation (r=0.30) with n=9 is only 15% (post-hoc power analysis),",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r = 0.421",
+        "context": " Agriculture concepts (Olive Oil, Wheat, Figs): r = 0.421, p = 0.481 (n=3, small n)  Metallurgy concepts (",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r = 0.105",
+        "context": "etallurgy concepts (Bronze Tool, Copper, Timber): r = 0.105, p = 0.939 (n=3, near-zero)  Livestock concept (",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.217",
+        "context": "aligning with hypothesis 2. Magnitude insu cient (r=0.217 < 0.30 threshold, p=0.577 n.s.) 3. Sample size li",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.25",
+        "context": "obust test. Expected power analysis: n=61, target r=0.25 â' 72% power to detect (adequate for ex- plorato",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r = 0.217",
+        "context": "Bronze Tool Sheep Linen Honey Timber Figs Copper r = 0.217, p = 0.574 n = 9 (underpowered) Opp 8: n=61 plann",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.217",
+        "context": "hed line shows linear regression t (slope=0.0021, r=0.217, p=0.577, n.s.). Shaded region = 95% con dence ba",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.30",
+        "context": "interval ([-0.529, 0.764]) and low power (15% for r=0.30 with n=9) indicate underpowered test requiring la",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.25",
+        "context": "et counts) should achieve adequate power (72% for r=0.25) to robustly test archaeological corre- lation hy",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.217",
+        "context": "r B tablet proxy) for n=9 Bronze Age commodities: r=0.217, p=0.577 (n.s.). Positive direction aligns with h",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.30",
+        "context": "s with hypothesis but underpowered (15% power for r=0.30 with n=9). Opportunity 8 Full Execution (Nov-Dec",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.217",
+        "context": "nvergence and Linear B tablet attestation counts (r=0.217, p=0.577, n=9 commodities). Wide con dence interv",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.30",
+        "context": "0.529, 0.764]) and low statistical power (15% for r=0.30) indicate sample size limita- tion rather than nu",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "r=0.25",
+        "context": "e Age sites) will achieve adequate power (72% for r=0.25) to robustly test whether material culture distri",
+        "page": 50,
+        "paper_id": "P004"
+      }
+    ],
+    "chi_square": [],
+    "t_test": [
+      {
+        "value": "t = 1.00",
+        "context": "tion evidence:  Bronze Age (3300-1200 BCE): Weight = 1.00 Early metallurgy, ancient astronomy, Sumerian/Akk",
+        "page": 6,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t = 0.85",
+        "context": "kkadian parallels  Iron Age (1200-586 BCE): Weight = 0.85 Hebrew Bible majority attestation, developed agri",
+        "page": 6,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t = 0.70",
+        "context": " Persian/Hellenistic (586-0 BCE): Weight = 0.70 Late biblical texts, Aramaic in uence period Mode",
+        "page": 7,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t = 2.69",
+        "context": "Metallurgy Period comparison:  Bronze vs. Iron: t = 2.69, p = 0.054 (marginal)  Bronze vs. Persian: t = 4",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t = 4.81",
+        "context": "2.69, p = 0.054 (marginal)  Bronze vs. Persian: t = 4.81, p = 0.009 (signi cant)  Overall trend: Cohen's",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t = 23.45",
+        "context": "0.0856 Primary concepts: 0.7251 ± 0.0771 T-test: t = 23.45, p < 0.001, Cohen's d = 11.97 (extremely large e\u001b",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t(19) = 2.41",
+        "context": "ert coding): 1. Hebrew-Aramaic vs. Hebrew-Arabic: t(19) = 2.41, p = 0.026 (one-tailed), d = 0.357 2. Hebrew-Aram",
+        "page": 26,
+        "paper_id": "P004",
+        "groups": [
+          "19",
+          "2.41"
+        ]
+      },
+      {
+        "value": "t(19) = 3.18",
+        "context": "7 2. Hebrew-Aramaic+Arabic pooled vs. Hebrew-PIE: t(19) = 3.18, p = 0.0025 (one-tailed), d = 0.773 Interpretatio",
+        "page": 26,
+        "paper_id": "P004",
+        "groups": [
+          "19",
+          "3.18"
+        ]
+      },
+      {
+        "value": "t=3.46",
+        "context": "rength:  Coe cient: β1 = +0.000062 per BCE year, t=3.46, p=0.014  Millennia e\u001bect: +0.062 convergence un",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "t=3.46",
+        "context": "F(1,6)=11.96, p=0.014  Coe cient β1 t-statistic: t=3.46, SE=0.000018, 95% CI [0.000021, 0.000103]  Resid",
+        "page": 53,
+        "paper_id": "P004"
+      }
+    ],
+    "percentage": [
+      {
+        "value": "15%",
+        "context": "4, p<0.01, n=5), with Bronze Age concepts showing 15% higher convergence than Iron Age concepts and 290",
+        "page": 1,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "bootstrap robustness validation (1000 iterations, 95% CIs), we establish temporal strati cation as the",
+        "page": 2,
+        "paper_id": "P004"
+      },
+      {
+        "value": "85%",
+        "context": "showing consistent patterns across 18+ methods (>85% agreement) suggests systematic encoding rather th",
+        "page": 4,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": ") = Base_encoding + (Antiquity_weight × 0.15) The 15% boost for Bronze Age concepts derives from empiri",
+        "page": 7,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15.3%",
+        "context": "l (0.62), Quenching (0.61) Bronze-Iron Di\u001b +0.10 +15.3% boost Table 1: * Abbrev: Cu=Copper, Mean=Mean Con",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "38.7%",
+        "context": "s substantially stronger temporal strati cation (+38.7% model t) than Metallurgy, validating encoding tax",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "0.62), Quenching (0.61) Bronze-Iron Di\u001b +0.10 +15.3% boost Table 1: * Abbrev: Cu=Copper, Mean=Mean Con",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "0 BCE) Iron Age (1200-586 BCE) Bronze Age Boost: +15% (0.783 vs 0.679) Temporal Depth Model R2 = 0.666",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "llation Astronomy Domain: Temporal Stratification 95% CI R² = 0.924, p < 0.01 HIGH encoding MODERATE en",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7%",
+        "context": "ubstantially stronger temporal strati cation (+38.7% model t) than Metallurgy, validating encoding tax",
+        "page": 10,
+        "paper_id": "P004"
+      },
+      {
+        "value": "36.8%",
+        "context": "tches point estimate)  Coe cient variation (CV): 36.8% (moderate stability given small n)  p-value stab",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "84.7%",
+        "context": " p-value stability: 847/1000 iterations p<0.05 (84.7% replication rate) Interpretation: While con dence",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "38.7%",
+        "context": "= 0.924) compared to Metallurgy (R2 = 0.666), a +38.7% improvement. This pat- tern aligns with theoretic",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "ndom seed 42) con rmed temporal e\u001bect robustness: 95% Bootstrap Con dence Intervals:  R2: [0.3452, 0.8",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8%",
+        "context": "es point estimate)  Coe cient variation (CV): 36.8% (moderate stability given small n)  p-value stab",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7%",
+        "context": "p-value stability: 847/1000 iterations p<0.05 (84.7% replication rate) Interpretation: While con dence",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "42%",
+        "context": "tural technologies). Mean convergence scores were 42% higher in Astronomy (0.733) versus Metallurgy (0.",
+        "page": 11,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3.6%",
+        "context": "lot 1 domains) show low variability (CV range 1.4-3.6% for Phase 1, 2.6-7.3% for pilots), indicating rob",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7.3%",
+        "context": "w variability (CV range 1.4-3.6% for Phase 1, 2.6-7.3% for pilots), indicating robust domain estimates d",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "6%",
+        "context": "t 1 domains) show low variability (CV range 1.4-3.6% for Phase 1, 2.6-7.3% for pilots), indicating rob",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "variability (CV range 1.4-3.6% for Phase 1, 2.6-7.3% for pilots), indicating robust domain estimates d",
+        "page": 12,
+        "paper_id": "P004"
+      },
+      {
+        "value": "86%",
+        "context": "size) Interpretation: Encoding categories explain 86% of between-domain variance. The p-value (0.007 <",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "tistics Category N Domains Mean Convergence SD SE 95% CI HIGH 2 0.8390 0.0326 0.0230 [0.5469, 1.1311] M",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8.2%",
+        "context": "ation: Attestation quality variance (SD=0.067, CV=8.2%) allows quality weight- ing to di\u001berentiate conce",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2%",
+        "context": "ion: Attestation quality variance (SD=0.067, CV=8.2%) allows quality weight- ing to di\u001berentiate conce",
+        "page": 16,
+        "paper_id": "P004"
+      },
+      {
+        "value": "322%",
+        "context": "m. Architecture baseline shows large ∆R2=+0.611 (+322% improvement) from near-zero starting point. Arrow",
+        "page": 17,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1.0%",
+        "context": "stronomy:  Quality mean: Q = 0.988 ± 0.010 (CV = 1.0%, near-constant)  ∆R2 = +0.0958 (below 0.10 thres",
+        "page": 18,
+        "paper_id": "P004"
+      },
+      {
+        "value": "0%",
+        "context": "ronomy:  Quality mean: Q = 0.988 ± 0.010 (CV = 1.0%, near-constant)  ∆R2 = +0.0958 (below 0.10 thres",
+        "page": 18,
+        "paper_id": "P004"
+      },
+      {
+        "value": "43%",
+        "context": "ions from spurious matches. Null concepts average 43% convergence of primary concepts, con- rming metho",
+        "page": 21,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15.3%",
+        "context": "4 (statistically signi cant)  Bronze Age boost: +15.3% convergence (0.783 vs. 0.679 Iron Age mean)  Tem",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "84.7%",
+        "context": "g)  Bootstrap robustness: 95% CI [0.345, 0.857], 84.7% replication rate (p<0.05)  Coe cient: β1 = +0.00",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "66.6%",
+        "context": "ions met)  Contribution: Temporal depth explains 66.6% of within-domain convergence vari- ance, establis",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3.6%",
+        "context": "contrasts  Bootstrap SE: Low variability (CV 1.4-3.6%), robust domain estimates  Encoding categories e",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "statistically signi cant)  Bronze Age boost: +15.3% convergence (0.783 vs. 0.679 Iron Age mean)  Tem",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "e-to-Iron transition lag)  Bootstrap robustness: 95% CI [0.345, 0.857], 84.7% replication rate (p<0.05",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7%",
+        "context": " Bootstrap robustness: 95% CI [0.345, 0.857], 84.7% replication rate (p<0.05)  Coe cient: β1 = +0.00",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "6%",
+        "context": "s met)  Contribution: Temporal depth explains 66.6% of within-domain convergence vari- ance, establis",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "86%",
+        "context": "t domain estimates  Encoding categories explain: 86% of between-domain variance in convergence  Contr",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "322%",
+        "context": "possible)  Architecture baseline: ∆R2 = +0.611 (+322% from low baseline R2=0.069)  Mechanism speci cit",
+        "page": 22,
+        "paper_id": "P004"
+      },
+      {
+        "value": "18.5%",
+        "context": "mary (Figure 5):  VALIDATED: 5/27 opportunities (18.5%) \u0016 Metallurgy Temporal + Quality, Proto- Semitic",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "22.2%",
+        "context": "sibility (Pilot 1)  PARTIAL: 6/27 opportunities (22.2%) \u0016 Ceiling e\u001bects, regional patterns, spatial wea",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "59.3%",
+        "context": "underpowered)  NOT TESTED: 16/27 opportunities (59.3%) \u0016 Extensive roadmap for future work (reduced fro",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8.3%",
+        "context": " Original matrix (Phase 1 only): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%)",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20.8%",
+        "context": "ase 1 only): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%)  Updated matrix (Phas",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "70.8%",
+        "context": "D (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%)  Updated matrix (Phase 1 + Pilot 1-4): 5/27 VAL",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "5%",
+        "context": "y (Figure 5):  VALIDATED: 5/27 opportunities (18.5%) \u0016 Metallurgy Temporal + Quality, Proto- Semitic",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2%",
+        "context": "ility (Pilot 1)  PARTIAL: 6/27 opportunities (22.2%) \u0016 Ceiling e\u001bects, regional patterns, spatial wea",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "derpowered)  NOT TESTED: 16/27 opportunities (59.3%) \u0016 Extensive roadmap for future work (reduced fro",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8%",
+        "context": "1 only): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%)  Updated matrix (Phas",
+        "page": 23,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8.3%",
+        "context": "Validation Opportunities Overall: 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT TESTED (70.8%)",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20.8%",
+        "context": "ies Overall: 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT TESTED (70.8%) Figure 5: Expansion Op",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "70.8%",
+        "context": "D (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT TESTED (70.8%) Figure 5: Expansion Opportunity Validation Matri",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "lidation Opportunities Overall: 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT TESTED (70.8%)",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8%",
+        "context": "Overall: 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT TESTED (70.8%) Figure 5: Expansion Op",
+        "page": 24,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "language:  Hebrew-Aramaic: M = 0.7932 ± 0.0834 (95% CI [0.7572, 0.8292]) 25",
+        "page": 25,
+        "paper_id": "P004"
+      },
+      {
+        "value": "10.3%",
+        "context": "The Northwest Semitic comparator (Aramaic) shows 10.3% higher convergence than cross-family comparator (",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": " Hebrew-Arabic: M = 0.7630 ± 0.0851 (95% CI [0.7241, 0.8019])  Hebrew-PIE: M = 0.7198 ± 0",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "e Northwest Semitic comparator (Aramaic) shows 10.3% higher convergence than cross-family comparator (",
+        "page": 26,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1.88%",
+        "context": "- provements over equal-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). E\u001bect sizes are",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2.01%",
+        "context": "-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). E\u001bect sizes are modest but consistent",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "0.13%",
+        "context": "on. LASSO performs marginally better than Ridge (+0.13% R2 advantage), suggesting sparse feature selectio",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "88%",
+        "context": "provements over equal-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). E\u001bect sizes are",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "01%",
+        "context": "eighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). E\u001bect sizes are modest but consistent",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "13%",
+        "context": ". LASSO performs marginally better than Ridge (+0.13% R2 advantage), suggesting sparse feature selectio",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "60%",
+        "context": "1), semantic (#2), morphological (#3) account for 60% of total feature importance. Borrowing likelihood",
+        "page": 29,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1.88%",
+        "context": "0.097 0.086 0.078 0.098 0.077 0.078 0.054 Ridge: +1.88% R² LASSO: +2.04% R² 14/21 features Figure 7. ML M",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2.04%",
+        "context": "0.098 0.077 0.078 0.054 Ridge: +1.88% R² LASSO: +2.04% R² 14/21 features Figure 7. ML Method Optimizatio",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2.01%",
+        "context": "rison showing Ridge (+1.88%, p=0.041) and LASSO (+2.01%, p=0.037) outperform equal-weighted baseline (err",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "88%",
+        "context": "097 0.086 0.078 0.098 0.077 0.078 0.054 Ridge: +1.88% R² LASSO: +2.04% R² 14/21 features Figure 7. ML M",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "04%",
+        "context": ".098 0.077 0.078 0.054 Ridge: +1.88% R² LASSO: +2.04% R² 14/21 features Figure 7. ML Method Optimizatio",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "01%",
+        "context": "son showing Ridge (+1.88%, p=0.041) and LASSO (+2.01%, p=0.037) outperform equal-weighted baseline (err",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "85%",
+        "context": "frequency, geographic distribution) account for >85% of model predictions. Negative SHAP for borrowing",
+        "page": 30,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "lation (r), two-tailed signi cance test (α=0.05), 95% con dence intervals via Fisher z-transformation.",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "ng moderate correlation (r=0.30) with n=9 is only 15% (post-hoc power analysis), indicating underpowere",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "66.6%",
+        "context": "NTRIBUTION The nding that temporal depth explains 66.6% of convergence variance in Metallurgy domain (R2=",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15.3%",
+        "context": "its per 1000 years antiquity  Bronze Age boost: +15.3% higher convergence (0.783 vs. 0.679)  Temporal t",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "84.7%",
+        "context": "onze-Iron transition lag)  Bootstrap validation: 84.7% replication rate across 1000 iterations (p<0.05)",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "85%",
+        "context": "577 n.s.) 3. Sample size limiting factor (n=9 â' 85% probability Type II error) 4. Methodological limi",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "72%",
+        "context": "Expected power analysis: n=61, target r=0.25 â' 72% power to detect (adequate for ex- ploratory study",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "6%",
+        "context": "IBUTION The nding that temporal depth explains 66.6% of convergence variance in Metallurgy domain (R2=",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "per 1000 years antiquity  Bronze Age boost: +15.3% higher convergence (0.783 vs. 0.679)  Temporal t",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7%",
+        "context": "e-Iron transition lag)  Bootstrap validation: 84.7% replication rate across 1000 iterations (p<0.05)",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "25%",
+        "context": "purely due to 2900-year temporal di\u001berence. This 25% boost (0.186/0.732 mean Metallurgy convergence) i",
+        "page": 32,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "=0.0021, r=0.217, p=0.577, n.s.). Shaded region = 95% con dence band (wide due to small n=9). Error bar",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "n dence interval ([-0.529, 0.764]) and low power (15% for r=0.30 with n=9) indicate underpowered test r",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "72%",
+        "context": "not tablet counts) should achieve adequate power (72% for r=0.25) to robustly test archaeological corre",
+        "page": 33,
+        "paper_id": "P004"
+      },
+      {
+        "value": "66.6%",
+        "context": "e temporal e\u001bect is robust across resampling. The 66.6% explained variance exceeds Cohen's threshold for",
+        "page": 34,
+        "paper_id": "P004"
+      },
+      {
+        "value": "6%",
+        "context": "emporal e\u001bect is robust across resampling. The 66.6% explained variance exceeds Cohen's threshold for",
+        "page": 34,
+        "paper_id": "P004"
+      },
+      {
+        "value": "38.7%",
+        "context": "t\u0016Astronomy R2=0.924 versus Metallurgy R2=0.666 (+38.7% improvement)\u0016 aligns precisely with theoretical p",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "re phylogenetic anal- ysis beyond scope), but the 15% Bronze Age boost is consistent with all three. Fu",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7%",
+        "context": "stronomy R2=0.924 versus Metallurgy R2=0.666 (+38.7% improvement)\u0016 aligns precisely with theoretical p",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "23%",
+        "context": "ents requiring specialized knowledge) at 0.643\u0016a +23% di\u001berence. Notably, this HIGH-MODERATE gap parall",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "49%",
+        "context": "ain patterns where HIGH encoding concepts showed +49% convergence over MODERATE concepts, con rming tha",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "39%",
+        "context": "t attenuates temporal strati cation. The observed 39% di\u001berence in explained variance (0.924 vs. 0.666)",
+        "page": 35,
+        "paper_id": "P004"
+      },
+      {
+        "value": "86%",
+        "context": "gence of HIGH/MODERATE/LOW encoding taxonomy with 86% explained vari- ance (η2=0.86) suggests systemati",
+        "page": 36,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20%",
+        "context": "Contribution Despite Partial Validation Even with 20% validation rate (1/5 domains), attestation qualit",
+        "page": 38,
+        "paper_id": "P004"
+      },
+      {
+        "value": "70.8%",
+        "context": "ility before large-scale resource commitment. The 70.8% NOT_TESTED rate (Phase 1 valida- tion matrix) re",
+        "page": 40,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8%",
+        "context": "ty before large-scale resource commitment. The 70.8% NOT_TESTED rate (Phase 1 valida- tion matrix) re",
+        "page": 40,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "ness compared to 21-method framework (ex- pected −15% convergence from reduced method count), (2) Conce",
+        "page": 42,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1.88%",
+        "context": "improvements over equal-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). SHAP interpreta",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2.01%",
+        "context": "-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). SHAP interpretability analysis reveale",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "40%",
+        "context": ": Phylogenetic model R2≥0.40 (phylogeny explains >40% of between-language variance in convergence). 5.6",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "88%",
+        "context": "provements over equal-weighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). SHAP interpreta",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "01%",
+        "context": "eighted baseline (Ridge +1.88%, p=0.041; LASSO +2.01%, p=0.037). SHAP interpretability analysis reveale",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "60%",
+        "context": "0.143, #3) as dominant predictors, accounting for 60% of model predictions. Borrowing likelihood (β=-0.",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2%",
+        "context": "nt (alternative to equal-weighting):  Trade-o\u001b: +2% R2 accuracy improvement vs. reduced interpretabil",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "33%",
+        "context": "(14 methods vs. 21) reduces calculation burden by 33% for large corpora (n=342 concepts × 13 languages",
+        "page": 44,
+        "paper_id": "P004"
+      },
+      {
+        "value": "10%",
+        "context": "uperadditive e\u001bects). Expected R2 improvement: +5-10% over linear models.  Interpretability preservati",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "50%",
+        "context": "R2≥0.50 (domain + temporal depth should explain ≥50% of convergence variance based on RQ1/RQ2 results)",
+        "page": 45,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "irection aligns with hypothesis but underpowered (15% power for r=0.30 with n=9). Opportunity 8 Full Ex",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "22%",
+        "context": "near B commodity concepts (exceeds n=50 target by 22%), 682+ tablet attestations across 4 major sites (",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "69%",
+        "context": "s, Mycenae, Thebes). Evidence quality: 42 STRONG (69%), 15 MODERATE (25%), 4 WEAK (6%). Archaeological",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "25%",
+        "context": ". Evidence quality: 42 STRONG (69%), 15 MODERATE (25%), 4 WEAK (6%). Archaeological correlation hypothe",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "6%",
+        "context": "lity: 42 STRONG (69%), 15 MODERATE (25%), 4 WEAK (6%). Archaeological correlation hypothesis re nement",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "72%",
+        "context": "orrelation: r≥0.25 (small-to-medium e\u001bect), power=72% with n=61 (ad- equate for exploratory study). Thr",
+        "page": 46,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15.3%",
+        "context": "(R2=0.924, p<0.01, n=5). Bronze Age concepts show 15.3% higher convergence than Iron Age concepts (Â3.1,",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "38.7%",
+        "context": "ably, HIGH encoding domain (As- tronomy) exhibits 38.7% stronger temporal strati cation than MODERATE dom",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "92.4%",
+        "context": " Theoretical contribution: Temporal depth (66.6-92.4% explained variance across domains) exceeds within",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "=0.924, p<0.01, n=5). Bronze Age concepts show 15.3% higher convergence than Iron Age concepts (Â3.1,",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "7%",
+        "context": "y, HIGH encoding domain (As- tronomy) exhibits 38.7% stronger temporal strati cation than MODERATE dom",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "4%",
+        "context": "Theoretical contribution: Temporal depth (66.6-92.4% explained variance across domains) exceeds within",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "86%",
+        "context": "om- parative datasets  Theoretical contribution: 86% of between-domain variance explained, validating",
+        "page": 48,
+        "paper_id": "P004"
+      },
+      {
+        "value": "10.3%",
+        "context": "tivity: North- west Semitic sister language shows 10.3% higher convergence than cross-family comparator.",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "1.88%",
+        "context": "mization (Pilot 3): ✓VALIDATED Ridge regression (+1.88% R2, p=0.041) and LASSO (+2.01% R2, p=0.037) achie",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2.01%",
+        "context": "Ridge regression (+1.88% R2, p=0.041) and LASSO (+2.01% R2, p=0.037) achieve statistically signi cant imp",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "ity: North- west Semitic sister language shows 10.3% higher convergence than cross-family comparator.",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "88%",
+        "context": "zation (Pilot 3): ✓VALIDATED Ridge regression (+1.88% R2, p=0.041) and LASSO (+2.01% R2, p=0.037) achie",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "01%",
+        "context": "dge regression (+1.88% R2, p=0.041) and LASSO (+2.01% R2, p=0.037) achieve statistically signi cant imp",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "60%",
+        "context": "0.0847), morpholog- ical (#3, 0.0693) account for 60% of predictions. LASSO feature selection retains 1",
+        "page": 49,
+        "paper_id": "P004"
+      },
+      {
+        "value": "2%",
+        "context": "ights complicate theoreti- cal interpretation but 2% accuracy gain may justify complexity for applied",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "15%",
+        "context": "rval ([-0.529, 0.764]) and low statistical power (15% for r=0.30) indicate sample size limita- tion rat",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "72%",
+        "context": "4 Bronze Age sites) will achieve adequate power (72% for r=0.25) to robustly test whether material cul",
+        "page": 50,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8.3%",
+        "context": "mal Validation matrix (Figure 5): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%)",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "20.8%",
+        "context": "(Figure 5): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%) provides extensive roa",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "70.8%",
+        "context": "D (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%) provides extensive roadmap for future expansion",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3.6%",
+        "context": "g 0.0119\u00160.0213  Coe cient of variation (CV) 1.4\u00163.6% (robust estimates) 52",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "3%",
+        "context": "l Validation matrix (Figure 5): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%)",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "8%",
+        "context": "igure 5): 2/24 VALIDATED (8.3%), 5/24 PARTIAL (20.8%), 17/24 NOT_TESTED (70.8%) provides extensive roa",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "with 1000-iteration bootstrap (random seed 42)  95% CIs for all 8 domains (Astronomy\u0016Architecture) ",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "6%",
+        "context": "0.0119\u00160.0213  Coe cient of variation (CV) 1.4\u00163.6% (robust estimates) 52",
+        "page": 52,
+        "paper_id": "P004"
+      },
+      {
+        "value": "86%",
+        "context": "0192, F(2,5)=15.35, p=0.007  E\u001bect size η2=0.86 (86% variance explained by encoding categories)  Assu",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": " Coe cient β1 t-statistic: t=3.46, SE=0.000018, 95% CI [0.000021, 0.000103]  Residual diagnostics: S",
+        "page": 53,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "strap (seed 42) for all 8 domains. Bootstrap SEs, 95% CIs, robust- ness validation 4. Phase 4 ANOVA Res",
+        "page": 54,
+        "paper_id": "P004"
+      },
+      {
+        "value": "95%",
+        "context": "dom seed: 42 (reproducibility)  Con dence level: 95% (α=0.05, standard in behavioral sciences)  Boots",
+        "page": 57,
+        "paper_id": "P004"
+      }
+    ],
+    "angle": [],
+    "reliability": [
+      {
+        "value": "α = 0.05",
+        "context": "ta-squared (η2) e\u001bect size Signi cance threshold: α = 0.05 Post-hoc: Tukey HSD for pairwise comparisons 3.5",
+        "page": 7,
+        "paper_id": "P004"
+      },
+      {
+        "value": "α=0.05",
+        "context": "= 0.6660, p = 0.014 (statistically signi cant at α=0.05) Coe cient interpretation: Each millennium increa",
+        "page": 9,
+        "paper_id": "P004"
+      },
+      {
+        "value": "α = 0.05",
+        "context": "ee pairwise comparisons statistically signi cant (α = 0.05), con rming hierarchical structure with no overla",
+        "page": 13,
+        "paper_id": "P004"
+      },
+      {
+        "value": "α=0.05",
+        "context": "OVA: F(4, 6) = 1.31, p = 0.346 (not signi cant at α=0.05) η2 = 0.466 (moderate e\u001bect size, but underpowere",
+        "page": 19,
+        "paper_id": "P004"
+      },
+      {
+        "value": "α=0.01",
+        "context": "ength tuned via GridSearchCV)  LASSO regression: α=0.01 (optimal via cross-validation) Performance metric",
+        "page": 28,
+        "paper_id": "P004"
+      },
+      {
+        "value": "α=0.05",
+        "context": "son correlation (r), two-tailed signi cance test (α=0.05), 95% con dence intervals via Fisher z-transforma",
+        "page": 31,
+        "paper_id": "P004"
+      },
+      {
+        "value": "α=0.05",
+        "context": "eed: 42 (reproducibility)  Con dence level: 95% (α=0.05, standard in behavioral sciences)  Bootstrap dis",
+        "page": 57,
+        "paper_id": "P004"
+      }
+    ]
+  }
+}

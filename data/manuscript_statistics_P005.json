@@ -1,0 +1,474 @@
+{
+  "P005": {
+    "convergence_score": [
+      {
+        "value": "convergence 0.745",
+        "context": "s). Results: Primary medical con- cepts show mean convergence 0.745 (SD=0.106), 2.19× higher than null controls 0.341",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "convergence 0.712",
+        "context": "Proto-Indo-European) language families, with mean convergence 0.712 (n=12 con- cepts). Top concepts—bone setting 0.88",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "convergence 0.745",
+        "context": "cs, antibiotics). Primary concepts exhibited mean convergence 0.745 (SD=0.106, n=12) compared to null controls 0.341",
+        "page": 2,
+        "paper_id": "P005"
+      }
+    ],
+    "p_value": [
+      {
+        "value": "p<0.0001",
+        "context": "n null controls 0.341 (SD=0.044), Cohen’s d=4.21 (p<0.0001). AI valida- tion confirms these scores reflect g",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p=0.0081",
+        "context": "s significantly with archaeological age (r=0.694, p=0.0081, validated). Cross-linguistic stability within st",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "(p<0.0001)",
+        "context": "an null controls 0.341 (SD=0.044), Cohen’s d=4.21 (p<0.0001). AI valida- tion confirms these scores reflect ge",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p<0.0001",
+        "context": "n ratio of 2.19× (independent t-test: t(14)=7.29, p<0.0001). Effect size Cohen’s d=4.21 exceeds the “very la",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p < 0.001",
+        "context": "dicts Medical Convergence (R² = 0.713) r = 0.871, p < 0.001 Linear regression 95% CI Fig. 1. Clinical Urgency",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p<0.001",
+        "context": "gency scores and linguistic convergence (r=0.844, p<0.001). High-urgency concepts (BONE_SETTING, WOUND, HEA",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p=0.0081",
+        "context": "e scores and archaeological dating shows r=0.694 (p=0.0081, Figure ). Con- cepts with older archaeological e",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p = 0.0081",
+        "context": "gical Age Predicts Medical Convergence r = 0.595, p = 0.0081 Fig. 2. Archaeological Age Predicts Medical Conve",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p=0.0081",
+        "context": "itations. Convergence-age correla- tion (r=0.694, p=0.0081) demonstrates significant association between lin",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p=0.0081",
+        "context": "n context. Convergence- age correlation (r=0.694, p=0.0081) demonstrates association between linguistic patt",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p<0.0001",
+        "context": "scores. The reported primary-to-null separation (p<0.0001) survives conservative multiple testing adjustmen",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p=0.0005",
+        "context": "higher convergence (mean=0.745 vs. 0.574, t=4.27, p=0.0005, Cohen’s d=2.04). Age-controlled regression confi",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "p=0.0026",
+        "context": "lling for archaeological age and urgency (=0.165, p=0.0026, R2=0.82). AI Classification Reproducibility. Cla",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "(p<0.0001)",
+        "context": "t scores. The reported primary-to-null separation (p<0.0001) survives conservative multiple testing adjustment",
+        "page": 6,
+        "paper_id": "P005"
+      }
+    ],
+    "sample_size": [
+      {
+        "value": "n=111",
+        "context": "e, validated through AI-human consensus analysis (n=111 expert etymologies). Meth- ods: We applied a 21-m",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=15",
+        "context": "roader Morphographs framework across mathematics (n=15, 1.71× ratio), astronomy, metallurgy, and agricul",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=12",
+        "context": ") language families, with mean convergence 0.712 (n=12 con- cepts). Top concepts—bone setting 0.887, wou",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=37",
+        "context": "Ety- mologisches Wörterbuch (PIE reconstructions, n=37), Klein’s Comprehensive Etymological Dictionary o",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=17",
+        "context": "for medical etymology analysis. High-error cases (n=17, error >0.40) primarily involved PIE laryngeals (",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=12",
+        "context": "cepts exhibited mean convergence 0.745 (SD=0.106, n=12) compared to null controls 0.341 (SD=0.044, n=4),",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=4",
+        "context": "n=12) compared to null controls 0.341 (SD=0.044, n=4), yielding a separation ratio of 2.19× (independe",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=0",
+        "context": "ographs Framework. Medical domain convergence (mean=0.712) aligns with mathematics (0.793), astronomy (",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "5 Concepts",
+        "context": "able 2. Cross-Linguistic Medical Convergence (Top 5 Concepts) Concept Hebrew Arabic Akkadian PIE Match HEAL R-",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=0",
+        "context": "etting, wound treatment) encode most strongly (mean=0.875), exceeding even high-utility mathemat- ical",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=12",
+        "context": "traints for ancient materials; (3) sample size of n=12 medical concepts, though selected for maximal arc",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=0",
+        "context": "1), yielding 5-domain Morphographs validation (mean=0.782) within Afro-Asiatic and Indo-European famili",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "16 concepts",
+        "context": "for proto- medicine convergence assessment across 16 concepts (12 pri- mary + 4 null controls). SEIF’s 21-metho",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=12",
+        "context": "s. Independent t-tests compared primary concepts (n=12) vs. null controls (n=4). Cohen’s d effect sizes",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=4",
+        "context": "mpared primary concepts (n=12) vs. null controls (n=4). Cohen’s d effect sizes quantified separation ma",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "n=0",
+        "context": "cepts showed significantly higher convergence (mean=0.745 vs. 0.574, t=4.27, p=0.0005, Cohen’s d=2.04).",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "16 concepts",
+        "context": "generates 336 individual judgments (21 methods × 16 concepts). While primary statistical tests (t-tests, regre",
+        "page": 6,
+        "paper_id": "P005"
+      },
+      {
+        "value": "3 concepts",
+        "context": "ned stable across schemes (R2=0.90-0.91), and top 3 concepts (BONE_SETTING, WOUND, HEAL) showed 100% rank stab",
+        "page": 6,
+        "paper_id": "P005"
+      }
+    ],
+    "effect_size": [
+      {
+        "value": "r=0.694",
+        "context": "correlates significantly with archaeological age (r=0.694, p=0.0081, validated). Cross-linguistic stability",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r = 0.871",
+        "context": "Urgency Predicts Medical Convergence (R² = 0.713) r = 0.871, p < 0.001 Linear regression 95% CI Fig. 1. Clini",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r=0.844",
+        "context": "inical urgency scores and linguistic convergence (r=0.844, p<0.001). High-urgency concepts (BONE_SETTING, W",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r=0.694",
+        "context": "onvergence scores and archaeological dating shows r=0.694 (p=0.0081, Figure ). Con- cepts with older archae",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r = 0.595",
+        "context": "E Archaeological Age Predicts Medical Convergence r = 0.595, p = 0.0081 Fig. 2. Archaeological Age Predicts M",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r = 0.694",
+        "context": "Archaeological Age Predicts Medical Convergence (r = 0.694, p = 0.0081). Scatter plot showing temporal depth",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "R² = 0.713",
+        "context": "AL Clinical Urgency Predicts Medical Convergence (R² = 0.713) r = 0.871, p < 0.001 Linear regression 95% CI Fi",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r=0.694",
+        "context": "s and Limitations. Convergence-age correla- tion (r=0.694, p=0.0081) demonstrates significant association b",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "r=0.694",
+        "context": "ar Eastern context. Convergence- age correlation (r=0.694, p=0.0081) demonstrates association between lingu",
+        "page": 5,
+        "paper_id": "P005"
+      }
+    ],
+    "chi_square": [],
+    "t_test": [
+      {
+        "value": "t(14)=7.29",
+        "context": "a separation ratio of 2.19× (independent t-test: t(14)=7.29, p<0.0001). Effect size Cohen’s d=4.21 exceeds th",
+        "page": 2,
+        "paper_id": "P005",
+        "groups": [
+          "14",
+          "7.29"
+        ]
+      },
+      {
+        "value": "t=4.27",
+        "context": "icantly higher convergence (mean=0.745 vs. 0.574, t=4.27, p=0.0005, Cohen’s d=2.04). Age-controlled regres",
+        "page": 6,
+        "paper_id": "P005"
+      }
+    ],
+    "percentage": [
+      {
+        "value": "85%",
+        "context": "lein Hebrew, CAD Akkadian etymologies), achieving 85% agreement with human experts (MAE=0.161, 100% pre",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "100%",
+        "context": "ving 85% agreement with human experts (MAE=0.161, 100% precision with no false positives). Results: Prim",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "70%",
+        "context": "skulls from Ensisheim, France (7000 BCE) show 50-70% survival rates, indicating successful post-surgic",
+        "page": 1,
+        "paper_id": "P005"
+      },
+      {
+        "value": "71.3%",
+        "context": "mitive antibiotics (2). Clinical Urgency Predicts 71.3% of Convergence Vari- ance. Multiple regression an",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "68.4%",
+        "context": ", Figure 1), followed by empirical observability (68.4%) and archaeological evidence (65.9%). This patter",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "65.9%",
+        "context": "bservability (68.4%) and archaeological evidence (65.9%). This pattern mirrors mathematics domain: eco- n",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "85%",
+        "context": "5 achieved MAE=0.161 across 111 etymologies, with 85% classification accuracy, 100% precision (no false",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "100%",
+        "context": "11 etymologies, with 85% classification accuracy, 100% precision (no false positives), and 85% recall. T",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "30%",
+        "context": "Skeletal evidence from Neolithic burials shows 10-30% of individuals sustained healed fractures, indica",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "3%",
+        "context": "ive antibiotics (2). Clinical Urgency Predicts 71.3% of Convergence Vari- ance. Multiple regression an",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "4%",
+        "context": "igure 1), followed by empirical observability (68.4%) and archaeological evidence (65.9%). This patter",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "9%",
+        "context": "rvability (68.4%) and archaeological evidence (65.9%). This pattern mirrors mathematics domain: eco- n",
+        "page": 2,
+        "paper_id": "P005"
+      },
+      {
+        "value": "71.3%",
+        "context": "ence interval (shaded). Clinical urgency explains 71.3% of convergence variance, demonstrating survival n",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "25%",
+        "context": "t medical emergencies. Skeletal evidence shows 15-25% of adult males died from violent trauma (7). Mate",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "10%",
+        "context": "ity from childbirth complications likely exceeded 10% (8). This selective pressure explains why BONE_SE",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "95%",
+        "context": "² = 0.713) r = 0.871, p < 0.001 Linear regression 95% CI Fig. 1. Clinical Urgency Predicts Medical Conv",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "3%",
+        "context": "e interval (shaded). Clinical urgency explains 71.3% of convergence variance, demonstrating survival n",
+        "page": 3,
+        "paper_id": "P005"
+      },
+      {
+        "value": "70%",
+        "context": "on single individuals (repeat proce- dures) 4. 50-70% survival rates (comparable to pre-anesthetic Eu-",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "40%",
+        "context": "harmacological analysis confirms efficacy for 30- 40% of remedies (2). This exceeds random chance (5-10",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "10%",
+        "context": "0% of remedies (2). This exceeds random chance (5-10% placebo rate), proving empirical knowledge accumu",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "85%",
+        "context": "hing human inter-rater reliability of 0.15-0.20), 85% classification accuracy, and 100% precision (no f",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "100%",
+        "context": "y of 0.15-0.20), 85% classification accuracy, and 100% precision (no false positive identifications of n",
+        "page": 4,
+        "paper_id": "P005"
+      },
+      {
+        "value": "85%",
+        "context": "cago As- syrian Dictionary), achieving MAE=0.161, 85% classification accuracy, and 100% precision (no f",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "100%",
+        "context": "eving MAE=0.161, 85% classification accuracy, and 100% precision (no false positive cognate identifi- ca",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "40%",
+        "context": "rate 21 methods via weighted averaging: Phonetic (40%): consonant root matching, sound change laws, pho",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "35%",
+        "context": "d change laws, phonotactic constraints; Semantic (35%): core meaning preservation, metaphorical mapping",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "25%",
+        "context": "al mappings, polysemy pat- terns; Archaeological (25%): material evidence, textual attes- tation, chron",
+        "page": 5,
+        "paper_id": "P005"
+      },
+      {
+        "value": "100%",
+        "context": "top 3 concepts (BONE_SETTING, WOUND, HEAL) showed 100% rank stability. Null Hypothesis Testing. We compa",
+        "page": 6,
+        "paper_id": "P005"
+      }
+    ],
+    "angle": [],
+    "reliability": [
+      {
+        "value": "α=0.05",
+        "context": "gency + Observabil- ity + Age). All analyses used α=0.05 significance threshold, two-tailed tests. Statist",
+        "page": 6,
+        "paper_id": "P005"
+      }
+    ]
+  }
+}
