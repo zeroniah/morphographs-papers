@@ -28,24 +28,23 @@ This repository contains academic papers for computational semantic intelligence
    - **Status**: Pending submission (LaTeX source in preparation)
    - **Key Metrics**: 90%+ circular reasoning detection accuracy
 
-**Timeline**: Papers will be added to this repository after arXiv moderation approval
-   - **arXiv Category**: cs.AI
-   - **Live Tool**: https://counterfactual.vitalgnosis.com
+3. **Discourse Field Theory for Legal Reasoning**
+   - **arXiv Category**: cs.CL (Computation and Language)
+   - **Live Tool**: Backend API (https://backend.vitalgnosis.com)
    - **Status**: Pending submission (LaTeX source in preparation)
-   - **Features**: Branch points, dependencies, cascade detection
+   - **Framework**: Three-tier DFT (Document → Process → Result)
 
-**Timeline**: Papers will be added to this repository after arXiv moderation approval (~1-2 business days post-submission).
+**Timeline**: Papers will be added to this repository after arXiv moderation approval.
 
 ## Data Files
 
 Data files will be added after corresponding papers are accepted to arXiv:
 - `counterfactual_benchmark.json` - Branch point detection validation
 - `cir_detection_metrics.json` - Circular reasoning accuracy metrics
-- `vera_validation_results.json` - VERA framework validation data
 
 ## Live Tools
 
-Visit the deployed VERA tools:
+Visit the deployed tools:
 - **Argument Clarity**: https://argument-clarity.vitalgnosis.com
 - **Counterfactual Reasoning**: https://counterfactual.vitalgnosis.com
 - **Backend API**: https://backend.vitalgnosis.com/docs
@@ -65,19 +64,22 @@ morphographs-papers/
 
 Papers will be citeable after arXiv approval. Citations will be updated in this README with arXiv IDs.
 
-**VERA Framework** (Placeholder):
-```bibtex
-@misc{morphographs2026vera,
-  title={VERA: Validated Ethical Reasoning Architecture for Legal Analysis},
-  author={VitalGnosis Research Team},Readers can test methodologies interactively
-3. VERA tokens link academic content to practical applications
-4. UPL compliance is verifiable in production
+## Publication Policy
 
-Papers without live tools remain in private research repositories until deployment.
+Papers are registered under the VERA (Verification Asset) tokenomics system and published only after corresponding tools are deployed.
 
 ## Contact
 
-Papers are registered under the VERA (Verification Asset) tokenomics system and published only after corresponding tools are deployed
+**Email**: info@vitalgnosis.com
+
+## License
+
+All data and papers in this repository are licensed under [CC BY 4.0](LICENSE).
+
+---
+
+**VitalGnosis LLC** | https://www.vitalgnosis.com  
+*Computational paleography to enterprise semantic intelligence*
 
 **VitalGnosis LLC** | https://www.vitalgnosis.com  
 *Computational paleography to enterprise semantic intelligence*
