@@ -21,19 +21,19 @@ This repository contains academic papers for **VERA (Validated Ethical Reasoning
    - **Live Tools**: 
      - Argument Clarity Checker: https://argument-clarity.vitalgnosis.com
      - Counterfactual Reasoning Engine: https://counterfactual.vitalgnosis.com
-   - **Status**: LaTeX source in preparation, pending arXiv submission
+   - **Status**: Pending submission (LaTeX source in preparation)
    - **Key Metrics**: 91.5% branch point precision, 90%+ circular reasoning accuracy
 
 2. **Discourse Field Theory for Legal Reasoning**
    - **arXiv Category**: cs.CL (Computation and Language)
    - **Live Tool**: Backend API (https://backend.vitalgnosis.com)
-   - **Status**: LaTeX source in preparation, pending arXiv submission
+   - **Status**: Pending submission (LaTeX source in preparation)
    - **Framework**: Three-tier DFT (Document → Process → Result)
 
 3. **Counterfactual Reasoning in Legal Document Analysis**
    - **arXiv Category**: cs.AI
    - **Live Tool**: https://counterfactual.vitalgnosis.com
-   - **Status**: LaTeX source in preparation, pending arXiv submission
+   - **Status**: Pending submission (LaTeX source in preparation)
    - **Features**: Branch points, dependencies, cascade detection
 
 **Timeline**: Papers will be added to this repository after arXiv moderation approval (~1-2 business days post-submission).
@@ -89,9 +89,7 @@ Papers without live tools remain in private research repositories until deployme
 
 ## Contact
 
-**Research Inquiries**: research@vitalgnosis.com  
-**Tool Support**: support@vitalgnosis.com  
-**Enterprise API**: enterprise@vitalgnosis.com
+**Email**: info@vitalgnosis.com
 
 ## License
 
